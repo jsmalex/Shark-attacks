@@ -1,0 +1,3316 @@
+Year,Type,Country,Sex ,Age,Fatal (Y/N)
+2017.0,Unprovoked,AUSTRALIA,M,48,N
+2017.0,Unprovoked,USA,M,19,N
+2017.0,Unprovoked,UNITED KINGDOM,M,30,N
+2017.0,Unprovoked,BAHAMAS,F,32,N
+2017.0,Provoked,USA,F,20,N
+2017.0,Unprovoked,UNITED ARAB EMIRATES,M,41,N
+2017.0,Provoked,AUSTRALIA,M,29,N
+2017.0,Unprovoked,MEXICO,M,33,Y
+2017.0,Invalid,USA,F,18,N
+2017.0,Unprovoked,SOUTH AFRICA,M,14,N
+2017.0,Unprovoked,USA,F,33,N
+2017.0,Unprovoked,REUNION,M,28,Y
+2017.0,Unprovoked,NEW ZEALAND,F,20s,N
+2017.0,Unprovoked,"ST HELENA, British overseas territory",F,40,N
+2017.0,Unprovoked,AUSTRALIA,F,17,Y
+2017.0,Unprovoked,USA,M,28,N
+2017.0,Unprovoked,USA,M,17,N
+2017.0,Unprovoked,USA,F,35,N
+2017.0,Unprovoked,USA,F,10,N
+2017.0,Unprovoked,USA,F,21,N
+2017.0,Unprovoked,USA,M,16,N
+2017.0,Unprovoked,USA,F,51,N
+2017.0,Unprovoked,AUSTRALIA,M,39,N
+2017.0,Unprovoked,USA,F,17,N
+2017.0,Unprovoked,USA,M,58,N
+2017.0,Unprovoked,AUSTRALIA,M,30,N
+2017.0,Unprovoked,BAHAMAS,M,58,N
+2017.0,Unprovoked,REUNION,M,26,Y
+2017.0,Unprovoked,AUSTRALIA,M,26,N
+2017.0,Unprovoked,USA,M,22,N
+2017.0,Unprovoked,BAHAMAS,M,37,N
+2017.0,Unprovoked,USA,M,Teen,N
+2017.0,Unprovoked,AUSTRALIA,M,55,N
+2017.0,Unprovoked,AUSTRALIA,M,57,N
+2017.0,Unprovoked,INDONESIA,M,48,N
+2017.0,Unprovoked,USA,M,47,N
+2017.0,Invalid,AUSTRALIA,M,20,N
+2016.0,Unprovoked,USA,M,16,N
+2016.0,Unprovoked,SOUTH AFRICA,M,55,N
+2016.0,Unprovoked,AUSTRALIA,M,61,N
+2016.0,Invalid,USA,M,19,N
+2016.0,Unprovoked,England,M,36,N
+2016.0,Provoked,AUSTRALIA,M,20,N
+2016.0,Unprovoked,AUSTRALIA,M,65,N
+2016.0,Provoked,AUSTRALIA,M,73,N
+2016.0,Unprovoked,USA,F,58,N
+2016.0,Unprovoked,USA,M,41,N
+2016.0,Unprovoked,USA,M,42,N
+2016.0,Unprovoked,AUSTRALIA,M,36,N
+2016.0,Unprovoked,USA,M,36,N
+2016.0,Unprovoked,USA,F,66,N
+2016.0,Unprovoked,AUSTRALIA,M,25,N
+2016.0,Unprovoked,USA,M,29,N
+2016.0,Unprovoked,USA,M,21,N
+2016.0,Unprovoked,USA,M,32,N
+2016.0,Unprovoked,AUSTRALIA,M,17,N
+2016.0,Unprovoked,USA,M,16,N
+2016.0,Unprovoked,USA,M,36,N
+2016.0,Unprovoked,USA,M,43,N
+2016.0,Unprovoked,USA,M,43,N
+2016.0,Unprovoked,USA,M,60s,N
+2016.0,Unprovoked,USA,F,51,N
+2016.0,Unprovoked,NEW CALEDONIA,M,50,Y
+2016.0,Unprovoked,USA,F,12,N
+2016.0,Unprovoked,USA,M,9,N
+2016.0,Unprovoked,USA,M,22,N
+2016.0,Unprovoked,USA,M,25,N
+2016.0,Unprovoked,USA,M,37,N
+2016.0,Unprovoked,REUNION,M,20,N
+2016.0,Unprovoked,USA,M,49,N
+2016.0,Unprovoked,BAHAMAS,M,15,N
+2016.0,Unprovoked,USA,M,21,N
+2016.0,Unprovoked,USA,M,22,N
+2016.0,Unprovoked,SPAIN,M,40,N
+2016.0,Unprovoked,CHINA,M,72,N
+2016.0,Provoked,USA,M,43,N
+2016.0,Unprovoked,AUSTRALIA,M,18,N
+2016.0,Unprovoked,JAPAN,M,29,N
+2016.0,Unprovoked,AUSTRALIA,M,36,N
+2016.0,Provoked,AUSTRALIA,M,31,N
+2016.0,Unprovoked,USA,F,9,N
+2016.0,Unprovoked,USA,F,11,N
+2016.0,Unprovoked,USA,M,61,N
+2016.0,Unprovoked,SPAIN,F,10,N
+2016.0,Provoked,USA,M,59,N
+2016.0,Unprovoked,USA,F,42,N
+2016.0,Provoked,AUSTRALIA,M,34,N
+2016.0,Unprovoked,USA,M,35,N
+2016.0,Unprovoked,USA,M,11,N
+2016.0,Unprovoked,COLUMBIA,M,59,N
+2016.0,Unprovoked,SOUTH AFRICA,M,43,N
+2016.0,Unprovoked,USA,M,42,N
+2016.0,Provoked,AUSTRALIA,M,19,N
+2016.0,Unprovoked,USA,F,6,N
+2016.0,Unprovoked,USA,M,19,N
+2016.0,Invalid,USA,M,27,N
+2016.0,Unprovoked,USA,M,64,N
+2016.0,Unprovoked,AUSTRALIA,F,60,Y
+2016.0,Unprovoked,EGYPT,M,23,N
+2016.0,Unprovoked,AUSTRALIA,M,29,Y
+2016.0,Unprovoked,USA,F,52,N
+2016.0,Unprovoked,USA,M,13,N
+2016.0,Unprovoked,USA,F,57,N
+2016.0,Unprovoked,USA,F,22,N
+2016.0,Unprovoked,USA,F,11,N
+2016.0,Unprovoked,USA,M,48,N
+2016.0,Provoked,USA,F,23,N
+2016.0,Unprovoked,USA,M,59,N
+2016.0,Provoked,NEW ZEALAND,M,39,N
+2016.0,Unprovoked,INDONESIA,M,24,N
+2016.0,Unprovoked,USA,M,15,N
+2016.0,Unprovoked,AUSTRALIA,M,12,N
+2016.0,Provoked,FRENCH POLYNESIA,M,26,N
+2016.0,Unprovoked,USA,M,26,N
+2016.0,Unprovoked,NEW CALEDONIA,F,69,Y
+2016.0,Invalid,CAPE VERDE,M,60,N
+2016.0,Unprovoked,USA,M,34,N
+2016.0,Unprovoked,USA,F,46,N
+2016.0,Unprovoked,AUSTRALIA,M,22,N
+2016.0,Unprovoked,USA,M,Teen,N
+2016.0,Unprovoked,AUSTRALIA,M,41,N
+2016.0,Provoked,BAHAMAS,M,9,N
+2016.0,Unprovoked,USA,M,19,N
+2016.0,Unprovoked,Fiji,M,45,Y
+2016.0,Unprovoked,USA,M,12,N
+2016.0,Unprovoked,BRAZIL,M,41,N
+2016.0,Unprovoked,NEW CALEDONIA,M,21,N
+2016.0,Unprovoked,NEW CALEDONIA,M,31,N
+2016.0,Invalid,CAYMAN ISLANDS,M,65,N
+2016.0,Unprovoked,AUSTRALIA,F,45,N
+2016.0,Unprovoked,AUSTRALIA,M,40,N
+2016.0,Unprovoked,USA,F,15,N
+2016.0,Unprovoked,USA,M,48,N
+2016.0,Unprovoked,AUSTRALIA,M,11,N
+2016.0,Unprovoked,AUSTRALIA,M,31,N
+2015.0,Unprovoked,SPAIN,F,38,N
+2015.0,Unprovoked,USA,M,71,N
+2015.0,Unprovoked,AUSTRALIA,M,43,N
+2015.0,Unprovoked,BRAZIL,M,32,N
+2015.0,Unprovoked,ARUBA,M,58,Y
+2015.0,Unprovoked,BAHAMAS,M,26,N
+2015.0,Unprovoked,SOUTH AFRICA,F,22,N
+2015.0,Unprovoked,ECUADOR,M,55,N
+2015.0,Unprovoked,USA,M,28,N
+2015.0,Unprovoked,AUSTRALIA,M,20,N
+2015.0,Invalid,USA,F,9,N
+2015.0,Unprovoked,USA,M,54,N
+2015.0,Unprovoked,USA,F,28,N
+2015.0,Unprovoked,MOZAMBIQUE,M,19,N
+2015.0,Unprovoked,AUSTRALIA,M,50,N
+2015.0,Unprovoked,USA,M,10,N
+2015.0,Unprovoked,SOUTH AFRICA,M,42,N
+2015.0,Unprovoked,USA,M,21,N
+2015.0,Unprovoked,USA,M,21,N
+2015.0,Unprovoked,MOZAMBIQUE,F,35,Y
+2015.0,Invalid,USA,M,32,N
+2015.0,Unprovoked,USA,M,44,N
+2015.0,Unprovoked,USA,F,9,N
+2015.0,Unprovoked,USA,M,25,N
+2015.0,Unprovoked,AUSTRALIA,M,18,N
+2015.0,Unprovoked,USA,M,22,N
+2015.0,Unprovoked,USA,M,13,N
+2015.0,Unprovoked,USA,M,14,N
+2015.0,Unprovoked,USA,M,22,N
+2015.0,Unprovoked,AUSTRALIA,F,7,N
+2015.0,Unprovoked,USA,M,14,N
+2015.0,Unprovoked,USA,M,27,N
+2015.0,Unprovoked,USA,M,12,N
+2015.0,Unprovoked,USA,M,16,N
+2015.0,Unprovoked,USA,M,20,N
+2015.0,Unprovoked,AUSTRALIA,M,42,N
+2015.0,Unprovoked,USA,F,50,N
+2015.0,Provoked,USA,M,29,N
+2015.0,Unprovoked,AUSTRALIA,M,62,N
+2015.0,Unprovoked,THAILAND,F,37,N
+2015.0,Unprovoked,USA,F,54,N
+2015.0,Unprovoked,USA,M,21,N
+2015.0,Unprovoked,AUSTRALIA,M,38,N
+2015.0,Unprovoked,USA,M,15,N
+2015.0,Unprovoked,USA,F,10,N
+2015.0,Unprovoked,USA,M,22,N
+2015.0,Invalid,SPAIN,M,10,N
+2015.0,Provoked,USA,M,57,N
+2015.0,Unprovoked,AUSTRALIA,M,52,N
+2015.0,Unprovoked,USA,M,25,N
+2015.0,Invalid,USA,F,35,N
+2015.0,Unprovoked,AUSTRALIA,M,46,Y
+2015.0,Provoked,USA,M,31,N
+2015.0,Unprovoked,AUSTRALIA,M,40,N
+2015.0,Unprovoked,REUNION,M,45,N
+2015.0,Unprovoked,SOUTH AFRICA,M,34,N
+2015.0,Unprovoked,USA,M,38,N
+2015.0,Invalid,USA,M,39,N
+2015.0,Unprovoked,BAHAMAS,F,23,N
+2015.0,Unprovoked,USA,M,32,N
+2015.0,Unprovoked,AUSTRALIA,M,52,N
+2015.0,Unprovoked,AUSTRALIA,M,32,N
+2015.0,Unprovoked,USA,M,68,N
+2015.0,Unprovoked,USA,M,12,N
+2015.0,Unprovoked,USA,M,18,N
+2015.0,Unprovoked,SOUTH AFRICA,M,19,N
+2015.0,Unprovoked,SOUTH AFRICA,M,23,N
+2015.0,Unprovoked,USA,M,43,N
+2015.0,Provoked,AUSTRALIA,M,19,N
+2015.0,Unprovoked,USA,M,47,N
+2015.0,Unprovoked,USA,M,6,N
+2015.0,Invalid,AUSTRALIA,F,37,N
+2015.0,Unprovoked,USA,M,9,N
+2015.0,Unprovoked,PUERTO RICO,M,36,N
+2015.0,Unprovoked,USA,M,10,N
+2015.0,Unprovoked,USA,M,16,N
+2015.0,Unprovoked,USA,F,12,N
+2015.0,Unprovoked,USA,F,13,N
+2015.0,Unprovoked,USA,M,11,N
+2015.0,Unprovoked,USA,F,17,N
+2015.0,Unprovoked,REUNION,M,47,N
+2015.0,Unprovoked,USA,F,14,N
+2015.0,Unprovoked,USA,F,19,N
+2015.0,Unprovoked,FRENCH POLYNESIA,M,19,N
+2015.0,Unprovoked,USA,F,13,N
+2015.0,Unprovoked,USA,M,18,N
+2015.0,Unprovoked,USA,M,30,N
+2015.0,Unprovoked,NEW CALEDONIA,M,50,Y
+2015.0,Unprovoked,SOUTH AFRICA,M,29,N
+2015.0,Unprovoked,USA,F,65,Y
+2015.0,Unprovoked,USA,M,63,N
+2015.0,Unprovoked,AUSTRALIA,M,26,N
+2015.0,Unprovoked,AUSTRALIA,M,71,N
+2015.0,Unprovoked,USA,M,48,N
+2015.0,Unprovoked,REUNION,M,13,Y
+2015.0,Unprovoked,USA,M,70,N
+2015.0,Invalid,ITALY,M,43,Y
+2015.0,Invalid,BRAZIL,M,23,N
+2015.0,Boat,SOUTH AFRICA,M,36,N
+2015.0,Unprovoked,EGYPT,M,52,Y
+2015.0,Unprovoked,USA,M,58,N
+2015.0,Unprovoked,FRENCH POLYNESIA,M,9,N
+2015.0,Provoked,MEXICO,M,36,N
+2015.0,Unprovoked,FRENCH POLYNESIA,M,18 months,N
+2015.0,Unprovoked,REUNION,F,22,Y
+2015.0,Unprovoked,AUSTRALIA,M,41,Y
+2015.0,Unprovoked,AUSTRALIA,M,35,N
+2015.0,Boat,AUSTRALIA,M,57,N
+2015.0,Provoked,USA,M,20,N
+2015.0,Unprovoked,SOUTH AFRICA,M,24,N
+2015.0,Unprovoked,AUSTRALIA,M,17,N
+2015.0,Invalid,USA,M,38,N
+2015.0,Unprovoked,BAHAMAS,F,34,N
+2015.0,Unprovoked,SOUTH AFRICA,M,15,N
+2015.0,Unprovoked,USA,M,12,N
+2014.0,Unprovoked,AUSTRALIA,M,17,Y
+2014.0,Unprovoked,USA,M,50,N
+2014.0,Provoked,AUSTRALIA,M,40s,N
+2014.0,Unprovoked,AUSTRALIA,M,17,Y
+2014.0,Unprovoked,AUSTRALIA,M,13,N
+2014.0,Provoked,MAURITIUS,M,39,Y
+2014.0,Unprovoked,USA,M,44,N
+2014.0,Unprovoked,USA,M,53,N
+2014.0,Unprovoked,USA,M,18,N
+2014.0,Unprovoked,USA,F,34,N
+2014.0,Provoked,AUSTRALIA,M,20,N
+2014.0,Unprovoked,AUSTRALIA,F,13,N
+2014.0,Unprovoked,USA,F,7,N
+2014.0,Unprovoked,USA,M,29,N
+2014.0,Unprovoked,USA,F,40,N
+2014.0,Unprovoked,USA,M,15,N
+2014.0,Unprovoked,USA,M,28,N
+2014.0,Unprovoked,AUSTRALIA,M,23,N
+2014.0,Unprovoked,FRENCH POLYNESIA,F,36,N
+2014.0,Unprovoked,AUSTRALIA,M,50,Y
+2014.0,Unprovoked,USA,M,43,N
+2014.0,Unprovoked,USA,F,20s,N
+2014.0,Provoked,USA,M,52,N
+2014.0,Unprovoked,SPAIN,M,16,N
+2014.0,Unprovoked,USA,F,13,N
+2014.0,Unprovoked,USA,M,17,N
+2014.0,Provoked,USA,M,33,N
+2014.0,Unprovoked,SPAIN,F,30s,N
+2014.0,Unprovoked,USA,M,29,N
+2014.0,Unprovoked,AUSTRALIA,M,31,N
+2014.0,Unprovoked,USA,M,26,N
+2014.0,Unprovoked,USA,F,10,N
+2014.0,Unprovoked,USA,M,7,N
+2014.0,Unprovoked,USA,M,10,N
+2014.0,Unprovoked,USA,F,45,N
+2014.0,Unprovoked,USA,M,50s,N
+2014.0,Unprovoked,USA,M,8,N
+2014.0,Unprovoked,SOUTH AFRICA,M,20,N
+2014.0,Unprovoked,USA,M,Teen,N
+2014.0,Unprovoked,REUNION,M,51,N
+2014.0,Unprovoked,USA,M,8,N
+2014.0,Unprovoked,USA,M,61,N
+2014.0,Unprovoked,USA,M,39,N
+2014.0,Invalid,BAHAMAS,M,63,Y
+2014.0,Unprovoked,USA,M,14,N
+2014.0,Unprovoked,USA,M,19,N
+2014.0,Boat,ST. MARTIN,M,48,N
+2014.0,Unprovoked,BAHAMAS,M,42,N
+2014.0,Unprovoked,AUSTRALIA,M,15,N
+2014.0,Unprovoked,BRAZIL,M,43,N
+2014.0,Unprovoked,USA,M,16,N
+2014.0,Unprovoked,AUSTRALIA,M,39,N
+2014.0,Unprovoked,JAPAN,M,43,N
+2014.0,Unprovoked,USA,F,14,N
+2014.0,Unprovoked,USA,F,22,N
+2014.0,Unprovoked,USA,F,37,N
+2014.0,Unprovoked,AUSTRALIA,F,29,N
+2014.0,Provoked,AUSTRALIA,M,10,N
+2014.0,Unprovoked,USA,F,38,N
+2014.0,Unprovoked,AUSTRALIA,M,35,N
+2014.0,Unprovoked,USA,F,44,N
+2014.0,Unprovoked,USA,M,12,N
+2014.0,Unprovoked,USA,F,40,N
+2014.0,Unprovoked,USA,M,23,N
+2014.0,Unprovoked,USA,M ,42,N
+2014.0,Unprovoked,USA,M,25,N
+2014.0,Unprovoked,USA,M,teen,N
+2014.0,Unprovoked,USA,M,teen,N
+2014.0,Unprovoked,AUSTRALIA,F,63,Y
+2014.0,Invalid,AUSTRALIA,M,38,Y
+2014.0,Unprovoked,SOUTH AFRICA,M,66,Y
+2014.0,Unprovoked,USA,M,9,N
+2014.0,Unprovoked,NEW CALEDONIA,M,42,N
+2014.0,Unprovoked,AUSTRALIA,M,42,N
+2014.0,Invalid,AUSTRALIA,F,10,N
+2014.0,Unprovoked,USA,M,21,N
+2014.0,Unprovoked,FRENCH POLYNESIA,M,21,N
+2014.0,Boat,PAPUA NEW GUINEA,M,21,N
+2014.0,Unprovoked,AUSTRALIA,M,28,Y
+2014.0,Unprovoked,NEW ZEALAND,M,28,N
+2014.0,Unprovoked,NEW ZEALAND,M,24,N
+2014.0,Sea Disaster,JAPAN,M,31,N
+2013.0,Unprovoked,NEW CALEDONIA,M,37,N
+2013.0,Unprovoked,SOUTH AFRICA,M,19,N
+2013.0,Unprovoked,KIRIBATI,M,35,N
+2013.0,Unprovoked,USA,M,29,N
+2013.0,Unprovoked,USA,M,30,N
+2013.0,Unprovoked,AUSTRALIA,M,26,N
+2013.0,Unprovoked,USA,M,57,Y
+2013.0,Unprovoked,AUSTRALIA,M,19,Y
+2013.0,Unprovoked,USA,F,58,N
+2013.0,Unprovoked,AUSTRALIA,M,35,Y
+2013.0,Unprovoked,USA,M,25,N
+2013.0,Provoked,BAHAMAS,M,77,N
+2013.0,Unprovoked,USA,M,16,N
+2013.0,Unprovoked,USA,M,46,N
+2013.0,Unprovoked,AUSTRALIA,F,60,N
+2013.0,Unprovoked,REUNION,M,24,N
+2013.0,Unprovoked,AUSTRALIA,M,41,N
+2013.0,Unprovoked,USA,M,45,N
+2013.0,Unprovoked,USA,M,25,N
+2013.0,Unprovoked,USA,M,6,N
+2013.0,Unprovoked,SOUTH AFRICA,M,74,Y
+2013.0,Unprovoked,AUSTRALIA,M,55,N
+2013.0,Unprovoked,USA,M,45,N
+2013.0,Unprovoked,USA,M,12,N
+2013.0,Unprovoked,USA,M,50,N
+2013.0,Provoked,ISRAEL,M,27,N
+2013.0,Unprovoked,USA,M,7,N
+2013.0,Unprovoked,USA,M,45,N
+2013.0,Unprovoked,USA,M,21,N
+2013.0,Unprovoked,USA,F,13,N
+2013.0,Provoked,USA,M,43,N
+2013.0,Unprovoked,USA,M,25,N
+2013.0,Unprovoked,USA,M,17,N
+2013.0,Provoked,USA,M,3,N
+2013.0,Unprovoked,USA,M,9,N
+2013.0,Invalid,USA,F,47,N
+2013.0,Provoked,FRANCE,M,50,N
+2013.0,Unprovoked,USA,F,11,N
+2013.0,Unprovoked,USA,M,16,N
+2013.0,Unprovoked,USA,F,20,Y
+2013.0,Unprovoked,USA,F,19,N
+2013.0,Unprovoked,USA,M,10,N
+2013.0,Unprovoked,USA,M,17,N
+2013.0,Unprovoked,USA,F,56,N
+2013.0,Unprovoked,USA,M,32,N
+2013.0,Unprovoked,BAHAMAS,M,40,N
+2013.0,Unprovoked,USA,M,18,N
+2013.0,Unprovoked,BAHAMAS,M,64,N
+2013.0,Unprovoked,BAHAMAS,M,50,N
+2013.0,Unprovoked,BRAZIL,F,18,Y
+2013.0,Unprovoked,USA,F,50,N
+2013.0,Unprovoked,USA,M,teen,N
+2013.0,Unprovoked,REUNION,F,15,Y
+2013.0,Unprovoked,DIEGO GARCIA,M,33,Y
+2013.0,Unprovoked,USA,F,63,N
+2013.0,Invalid,SPAIN,M,48,N
+2013.0,Unprovoked,AUSTRALIA,M,29,N
+2013.0,Invalid,JAMAICA,M,20,Y
+2013.0,Unprovoked,USA,M,14,N
+2013.0,Unprovoked,USA,M,28,N
+2013.0,Unprovoked,USA,M,15,N
+2013.0,Unprovoked,USA,F,10,N
+2013.0,Provoked,USA,M,58,N
+2013.0,Unprovoked,USA,M,32,N
+2013.0,Unprovoked,USA,M,11,N
+2013.0,Unprovoked,BRAZIL,M,41,Y
+2013.0,Provoked,PALESTINIAN TERRITORIES,M,30,N
+2013.0,Unprovoked,ECUADOR,M,29,N
+2013.0,Invalid,USA,M,42,Y
+2013.0,Unprovoked,REUNION,M,36,Y
+2013.0,Unprovoked,USA,M,16,N
+2013.0,Unprovoked,MEXICO,F,34,N
+2013.0,Unprovoked,AUSTRALIA,M,51,N
+2013.0,Unprovoked,USA,M,9,N
+2013.0,Unprovoked,USA,M,21,N
+2013.0,Unprovoked,GUAM,M,40,Y
+2013.0,Unprovoked,FRENCH POLYNESIA,M,53,N
+2013.0,Unprovoked,USA,M,50,N
+2013.0,Invalid,AUSTRALIA,M,24,Y
+2013.0,Unprovoked,USA,M,58,N
+2013.0,Invalid,AUSTRALIA,M,47,N
+2013.0,Unprovoked,SEYCHELLES,M,34,N
+2013.0,Unprovoked,BAHAMAS,M,50,N
+2013.0,Provoked,SOUTH AFRICA,M,30,N
+2013.0,Unprovoked,JAMAICA,M,68,Y
+2013.0,Unprovoked,AUSTRALIA,M,28,N
+2013.0,Unprovoked,PHILIPPINES,M,28 & 26,N
+2013.0,Unprovoked,SOUTH AFRICA,M,39,N
+2013.0,Unprovoked,NEW ZEALAND,M,46,Y
+2013.0,Unprovoked,USA,M,16,N
+2013.0,Unprovoked,FRENCH POLYNESIA,M,48,N
+2013.0,Unprovoked,JAMAICA,M,18,N
+2013.0,Invalid,AUSTRALIA,M,62,N
+2013.0,Unprovoked,USA,M,43,N
+2013.0,Unprovoked,AUSTRALIA,M,26,N
+2012.0,Unprovoked,AUSTRALIA,M,23,N
+2012.0,Unprovoked,AUSTRALIA,M,29,N
+2012.0,Unprovoked,SOUTH AFRICA,M,20,Y
+2012.0,Unprovoked,AUSTRALIA,M,32,N
+2012.0,Unprovoked,USA,M,60,N
+2012.0,Unprovoked,AUSTRALIA,M,31,N
+2012.0,Unprovoked,NEW ZEALAND,F,25,N
+2012.0,Unprovoked,USA,M,61,N
+2012.0,Invalid,AUSTRALIA,M,20,N
+2012.0,Unprovoked,MEXICO,M,32,Y
+2012.0,Unprovoked,USA,M,14,N
+2012.0,Unprovoked,USA,M,30,N
+2012.0,Unprovoked,USA,M,43,N
+2012.0,Unprovoked,USA,M,25,N
+2012.0,Unprovoked,USA,F,51,N
+2012.0,Unprovoked,USA,M,39,Y
+2012.0,Unprovoked,USA,F,35,N
+2012.0,Unprovoked,USA,M,24,N
+2012.0,Unprovoked,USA,M,55,N
+2012.0,Unprovoked,NIGERIA,F,38,N
+2012.0,Unprovoked,USA,M,42,N
+2012.0,Unprovoked,AUSTRALIA,M,11,N
+2012.0,Unprovoked,USA,M,21,N
+2012.0,Unprovoked,USA,M,22,N
+2012.0,Unprovoked,USA,M,52,N
+2012.0,Unprovoked,TONGA,F,29,N
+2012.0,Unprovoked,USA,M,25,N
+2012.0,Unprovoked,USA,M,30s,N
+2012.0,Unprovoked,USA,M,37,N
+2012.0,Unprovoked,USA,M,32,N
+2012.0,Unprovoked,USA,F,8,N
+2012.0,Unprovoked,USA,F,56,N
+2012.0,Provoked,SCOTLAND,M,53,N
+2012.0,Unprovoked,AUSTRALIA,M,34,N
+2012.0,Unprovoked,BRAZIL,M,18,Y
+2012.0,Unprovoked,USA,M,31,N
+2012.0,Unprovoked,USA,M,56,N
+2012.0,Unprovoked,REUNION,M,39,N
+2012.0,Unprovoked,USA,M,17,N
+2012.0,Unprovoked,AUSTRALIA,M,48,N
+2012.0,Unprovoked,USA,M,44,N
+2012.0,Unprovoked,USA,M,50,N
+2012.0,Invalid,USA,M,12,N
+2012.0,Unprovoked,REUNION,M,22,Y
+2012.0,Invalid,TRINIDAD & TOBAGO,M,24,Y
+2012.0,Invalid,CANADA,F,23,N
+2012.0,Unprovoked,AUSTRALIA,M,24,Y
+2012.0,Unprovoked,USA,F,43,N
+2012.0,Invalid,AUSTRALIA,F,42,Y
+2012.0,Unprovoked,USA,M,52,N
+2012.0,Unprovoked,SOUTH AFRICA,M,29,N
+2012.0,Unprovoked,USA,M,6,N
+2012.0,Unprovoked,USA,M,26,N
+2012.0,Unprovoked,USA,F,16,N
+2012.0,Unprovoked,USA,M,12,N
+2012.0,Unprovoked,AUSTRALIA,M,62,N
+2012.0,Invalid,USA,M,16,N
+2012.0,Unprovoked,USA,F,6,N
+2012.0,Provoked,USA,M,23,N
+2012.0,Unprovoked,USA,F,18,N
+2012.0,Unprovoked,USA,M,16,N
+2012.0,Unprovoked,AUSTRALIA,M,42,N
+2012.0,Provoked,ITALY,M,57,2017
+2012.0,Unprovoked,AUSTRALIA,M,30,N
+2012.0,Unprovoked,USA,F,12,N
+2012.0,Unprovoked,USA,M,25,N
+2012.0,Unprovoked,USA,F,33,N
+2012.0,Unprovoked,MEXICO,M,46,N
+2012.0,Unprovoked,USA,M,22,N
+2012.0,Unprovoked,FIJI,M,20,N
+2012.0,Unprovoked,USA,M,30,N
+2012.0,Unprovoked,USA,F,47,N
+2012.0,Unprovoked,USA,F,15,N
+2012.0,Unprovoked,USA,M,28,N
+2012.0,Unprovoked,SOUTH AFRICA,M,20,Y
+2012.0,Unprovoked,AUSTRALIA,M,27,N
+2012.0,Unprovoked,USA,M,28,N
+2012.0,Unprovoked,AUSTRALIA,M,33,Y
+2012.0,Unprovoked,USA,M,21,N
+2012.0,Unprovoked,AUSTRALIA,M,20,N
+2012.0,Unprovoked,USA,M,61,N
+2012.0,Unprovoked,USA,F,15,N
+2012.0,Unprovoked,USA,M,17,N
+2012.0,Provoked,AUSTRALIA,F,34,N
+2012.0,Unprovoked,REUNION,M,31,N
+2012.0,Unprovoked,USA,M,19,N
+2012.0,Invalid,SAUDI ARABIA,M,42,N
+2012.0,Unprovoked,AUSTRALIA,M,29,N
+2012.0,Unprovoked,AUSTRALIA,M,26,N
+2012.0,Provoked,TAIWAN,M,24,N
+2012.0,Unprovoked,AUSTRALIA,M,44,N
+2012.0,Unprovoked,SOUTH AFRICA,M,25,Y
+2012.0,Unprovoked,USA,M,53,N
+2012.0,Unprovoked,AUSTRALIA,M,28,N
+2012.0,Unprovoked,AUSTRALIA,M,34,N
+2011.0,Unprovoked,ECUADOR,M,23,N
+2011.0,Unprovoked,USA,M,27,N
+2011.0,Unprovoked,SOUTH AFRICA,M,35,N
+2011.0,Unprovoked,AUSTRALIA,M,51,N
+2011.0,Unprovoked,AUSTRALIA,M,14,N
+2011.0,Unprovoked,AUSTRALIA,M,63,N
+2011.0,Unprovoked,INDONESIA,M,18,N
+2011.0,Unprovoked,AUSTRALIA,M,10,N
+2011.0,Unprovoked,BRAZIL,M,35,N
+2011.0,Unprovoked,REUNION,M,42,N
+2011.0,Unprovoked,USA,M,27,N
+2011.0,Unprovoked,SCOTLAND,M,26,N
+2011.0,Unprovoked,AUSTRALIA,M,32,Y
+2011.0,Unprovoked,USA,M,41,N
+2011.0,Unprovoked,AUSTRALIA,M,50,N
+2011.0,Unprovoked,AUSTRALIA,M,64,Y
+2011.0,Boat,REUNION,M,51,N
+2011.0,Unprovoked,USA,M,29,N
+2011.0,Invalid,USA,M,27,N
+2011.0,Provoked,DOMINICAN REPUBLIC,M,48,N
+2011.0,Unprovoked,SOUTH AFRICA,M,43,N
+2011.0,Unprovoked,USA,M,21,N
+2011.0,Unprovoked,USA,M,5,N
+2011.0,Unprovoked,REUNION,M,38,Y
+2011.0,Unprovoked,KENYA,M,17,Y
+2011.0,Unprovoked,USA,M,25,N
+2011.0,Unprovoked,USA,M,37,N
+2011.0,Unprovoked,PAPUA NEW GUINEA,M,30,N
+2011.0,Unprovoked,AUSTRALIA,M,21,Y
+2011.0,Unprovoked,USA,M,19,N
+2011.0,Unprovoked,USA,M,19,N
+2011.0,Invalid,AUSTRALIA,M,48,Y
+2011.0,Unprovoked,USA,F,39,N
+2011.0,Unprovoked,USA,M,21,N
+2011.0,Unprovoked,USA,M,10,N
+2011.0,Unprovoked,SOUTH AFRICA,M,49,Y
+2011.0,Unprovoked,RUSSIA,M,16,N
+2011.0,Unprovoked,USA,F,20s,N
+2011.0,Invalid,USA,M,12,N
+2011.0,Unprovoked,RUSSIA,M,25,N
+2011.0,Unprovoked,FRENCH POLYNESIA,M,32,N
+2011.0,Unprovoked,USA,M,27,N
+2011.0,Unprovoked,SEYCHELLES,M,30,Y
+2011.0,Invalid,USA,M,7,N
+2011.0,Unprovoked,USA,M,54,N
+2011.0,Unprovoked,SEYCHELLES,M,36,Y
+2011.0,Invalid,BRAZIL,M,14,Y
+2011.0,Sea Disaster,PHILIPPINES,M,43,N
+2011.0,Unprovoked,SOUTH AFRICA,M,29,N
+2011.0,Unprovoked,USA,F,6,N
+2011.0,Unprovoked,BAHAMAS,M,54,N
+2011.0,Unprovoked,USA,M,12,N
+2011.0,Unprovoked,USA,M,14,N
+2011.0,Unprovoked,REUNION,M,16,N
+2011.0,Unprovoked,COLUMBIA,M,17,N
+2011.0,Unprovoked,TURKS & CAICOS,M,28,N
+2011.0,Unprovoked,BRAZIL,M,21,N
+2011.0,Unprovoked,SOUTH AFRICA,M,22,N
+2011.0,Unprovoked,USA,F,10,N
+2011.0,Unprovoked,USA,M,20,N
+2011.0,Unprovoked,TURKS & CAICOS,M,35,N
+2011.0,Unprovoked,COSTA RICA,M,15,Y
+2011.0,Unprovoked,REUNION,M,31,Y
+2011.0,Unprovoked,USA,M,28,N
+2011.0,Unprovoked,COLUMBIA,M,24,N
+2011.0,Unprovoked,USA,M,28,N
+2011.0,Unprovoked,USA,M,19,N
+2011.0,Unprovoked,USA,F,22,N
+2011.0,Unprovoked,SOUTH AFRICA,M,33,N
+2011.0,Unprovoked,SOUTH AFRICA,M,28,Y
+2011.0,Unprovoked,USA,M,86,N
+2011.0,Unprovoked,NEW CALEDONIA,M,15,Y
+2011.0,Unprovoked,USA,M,37,N
+2011.0,Invalid,UNITED ARAB EMIRATES (UAE),M,43,N
+2011.0,Unprovoked,SOUTH AFRICA,M,37,N
+2011.0,Unprovoked,USA,M,32,N
+2011.0,Unprovoked,AUSTRALIA,M,17,N
+2011.0,Unprovoked,USA,M,49,N
+2011.0,Unprovoked,NEW ZEALAND,M,41,N
+2011.0,Unprovoked,FIJI,M,27,N
+2011.0,Unprovoked,AUSTRALIA,M,48,N
+2011.0,Unprovoked,MEXICO,M,46,N
+2011.0,Unprovoked,FIJI,M,30,N
+2011.0,Unprovoked,AUSTRALIA,F,24,N
+2011.0,Provoked,AUSTRALIA,M,36,N
+2011.0,Unprovoked,NEW CALEDONIA,M,21,N
+2011.0,Unprovoked,REUNION,M,32,N
+2011.0,Unprovoked,AUSTRALIA,M,49,Y
+2011.0,Unprovoked,AUSTRALIA,M,58,N
+2011.0,Unprovoked,SOUTH AFRICA,M,37,N
+2011.0,Unprovoked,MEXICO,F,38,N
+2011.0,Provoked,MEXICO,M,25,N
+2011.0,Unprovoked,BAHAMAS,M,55,N
+2011.0,Invalid,AUSTRALIA,F,7,N
+2011.0,Unprovoked,SOUTH AFRICA,M,16,Y
+2011.0,Unprovoked,MEXICO,M,37,N
+2010.0,Unprovoked,USA,M,16,N
+2010.0,Unprovoked,USA,M,46,N
+2010.0,Unprovoked,EGYPT,F,70,Y
+2010.0,Unprovoked,EGYPT,M,54,N
+2010.0,Unprovoked,EGYPT,M,46,N
+2010.0,Unprovoked,EGYPT,F,70,N
+2010.0,Unprovoked,EGYPT,F,48,N
+2010.0,Unprovoked,SAMOA,M,47,N
+2010.0,Provoked,USA,M,33,N
+2010.0,Unprovoked,DOMINICAN REPUBLIC,M,21,Y
+2010.0,Unprovoked,AUSTRALIA,F,20,N
+2010.0,Unprovoked,USA,M,30,N
+2010.0,Unprovoked,AUSTRALIA,M,14,N
+2010.0,Unprovoked,USA,M,19,Y
+2010.0,Unprovoked,AUSTRALIA,M,22,N
+2010.0,Unprovoked,SOUTH AFRICA,M,Teen,N
+2010.0,Unprovoked,USA,M,29,N
+2010.0,Unprovoked,USA,M,18,N
+2010.0,Unprovoked,SOUTH AFRICA,M,29,Y
+2010.0,Unprovoked,AUSTRALIA,M,15,N
+2010.0,Unprovoked,USA,M,27,N
+2010.0,Unprovoked,TONGA,M,24,N
+2010.0,Unprovoked,USA,M,24,N
+2010.0,Unprovoked,USA,M,24,N
+2010.0,Unprovoked,SOLOMON ISLANDS,M,34,N
+2010.0,Invalid,BAHAMAS,M,43,Y
+2010.0,Unprovoked,USA,M,10,N
+2010.0,Unprovoked,AUSTRALIA,M,31,Y
+2010.0,Unprovoked,USA,M,45,N
+2010.0,Unprovoked,SOUTH KOREA,F,16,N
+2010.0,Unprovoked,AUSTRALIA,M,47,N
+2010.0,Unprovoked,USA,M,25,N
+2010.0,Unprovoked,MALTA,M,35,N
+2010.0,Unprovoked,USA,F,37,N
+2010.0,Unprovoked,USA,M,16,N
+2010.0,Unprovoked,USA,M,20,N
+2010.0,Unprovoked,USA,M,10,N
+2010.0,Unprovoked,USA,F,13,N
+2010.0,Unprovoked,USA,M,55,N
+2010.0,Provoked,SPAIN,M,9,N
+2010.0,Unprovoked,SOUTH AFRICA,F,21,N
+2010.0,Provoked,USA,M,20,N
+2010.0,Unprovoked,USA,M,19,N
+2010.0,Unprovoked,USA,M,48,N
+2010.0,Unprovoked,USA,M,20,N
+2010.0,Unprovoked,USA,F,6,N
+2010.0,Unprovoked,USA,F,13,N
+2010.0,Unprovoked,VIETNAM,M,17,N
+2010.0,Unprovoked,USA,F,18,N
+2010.0,Unprovoked,AUSTRALIA,M,40,N
+2010.0,Unprovoked,USA,M,20,N
+2010.0,Provoked,USA,M,49,N
+2010.0,Unprovoked,VIETNAM,F,58,N
+2010.0,Unprovoked,VIETNAM,F,60,N
+2010.0,Unprovoked,MADAGASCAR,M,59,N
+2010.0,Unprovoked,USA,F,10,N
+2010.0,Provoked,USA,M,29,N
+2010.0,Unprovoked,USA,M,68,N
+2010.0,Unprovoked,SOUTH AFRICA,M,35,N
+2010.0,Unprovoked,EGYPT,M,24,N
+2010.0,Unprovoked,REUNION,M,34,N
+2010.0,Unprovoked,FIJI,M,19,Y
+2010.0,Unprovoked,AUSTRALIA,F,60,N
+2010.0,Unprovoked,AUSTRALIA,M,46,N
+2010.0,Unprovoked,AUSTRALIA,M,18,N
+2010.0,Invalid,GUAM,M,31,Y
+2010.0,Unprovoked,USA,M,38,Y
+2010.0,Provoked,NEW ZEALAND,F,14,N
+2010.0,Unprovoked,BRAZIL,M,29,N
+2010.0,Unprovoked,UNITED ARAB EMIRATES (UAE),M,54,N
+2010.0,Unprovoked,SOUTH AFRICA,M,37,Y
+2010.0,Unprovoked,AUSTRALIA,F,9,N
+2010.0,Unprovoked,USA,M,32,N
+2009.0,Unprovoked,SOUTH AFRICA,M,20,N
+2009.0,Provoked,AUSTRALIA,M,55,N
+2009.0,Unprovoked,MOZAMBIQUE,M,27,N
+2009.0,Unprovoked,AUSTRALIA,M,18,N
+2009.0,Unprovoked,SOUTH AFRICA,M,22,Y
+2009.0,Unprovoked,NEW ZEALAND,M,24,Y
+2009.0,Unprovoked,AUSTRALIA,M,39,N
+2009.0,Provoked,USA,M,58,N
+2009.0,Invalid,USA,M,49,N
+2009.0,Unprovoked,USA,M,10,N
+2009.0,Unprovoked,USA,M,31,N
+2009.0,Unprovoked,USA,M,22,N
+2009.0,Unprovoked,USA,F,27,N
+2009.0,Unprovoked,USA,M,18,N
+2009.0,Unprovoked,AUSTRALIA,M,25,N
+2009.0,Unprovoked,USA,M,21,N
+2009.0,Unprovoked,AUSTRALIA,M,27,N
+2009.0,Unprovoked,AUSTRALIA,F,17,N
+2009.0,Unprovoked,USA,M,54,N
+2009.0,Unprovoked,PANAMA,F,10,N
+2009.0,Provoked,SCOTLAND,M,23,N
+2009.0,Unprovoked,AUSTRALIA,M,23,N
+2009.0,Provoked,UNITED KINGDOM,M,39,N
+2009.0,Provoked,BRAZIL,M,34,Y
+2009.0,Invalid,USA,M,60,Y
+2009.0,Unprovoked,BRAZIL,M,15,Y
+2009.0,Unprovoked,SOUTH AFRICA,M,25,Y
+2009.0,Unprovoked,USA,F,22,N
+2009.0,Unprovoked,USA,M,26,N
+2009.0,Unprovoked,USA,M,56,N
+2009.0,Unprovoked,BAHAMAS,M,14,N
+2009.0,Unprovoked,AUSTRALIA,M,14,N
+2009.0,Unprovoked,VIETNAM,F,41,N
+2009.0,Unprovoked,USA,F,14,N
+2009.0,Invalid,SPAIN,F,11,N
+2009.0,Unprovoked,USA,F,26,N
+2009.0,Unprovoked,USA,F,19,N
+2009.0,Unprovoked,VIETNAM,M,57,N
+2009.0,Unprovoked,SOUTH AFRICA,M,37,N
+2009.0,Unprovoked,USA,F,12,N
+2009.0,Provoked,USA,F,43,N
+2009.0,Unprovoked,AUSTRALIA,M,52,N
+2009.0,Invalid,USA,M,26,N
+2009.0,Invalid,USA,M,14,N
+2009.0,Unprovoked,EGYPT,F,50,Y
+2009.0,Provoked,TAIWAN,M,46,N
+2009.0,Unprovoked,USA,M,31,N
+2009.0,Unprovoked,USA,M,49,N
+2009.0,Unprovoked,USA,M,55,N
+2009.0,Provoked,GUAM,M,27,N
+2009.0,Provoked,BAHAMAS,M,48,N
+2009.0,Unprovoked,USA,M,20,N
+2009.0,Unprovoked,PHILIPPINES,M,23,N
+2009.0,Unprovoked,USA,M,52,N
+2009.0,Unprovoked,USA,M,31,N
+2009.0,Invalid,USA,M,49,N
+2009.0,Unprovoked,AUSTRALIA,M,40,N
+2009.0,Invalid,SOUTH AFRICA,M,24,Y
+2009.0,Unprovoked,USA,M,15,N
+2009.0,Provoked,SOUTH AFRICA,M,59,N
+2009.0,Unprovoked,SOUTH AFRICA,M,16,Y
+2009.0,Unprovoked,AUSTRALIA,M,17,N
+2009.0,Unprovoked,USA,F,17,N
+2009.0,Unprovoked,USA,M,61,N
+2009.0,Provoked,AUSTRALIA,M,21,N
+2009.0,Unprovoked,NEW CALEDONIA,M,19,Y
+2009.0,Provoked,SOUTH AFRICA,M,40,N
+2009.0,Unprovoked,AUSTRALIA,M,15,N
+2009.0,Unprovoked,AUSTRALIA,M,33,N
+2009.0,Unprovoked,AUSTRALIA,M,31,N
+2009.0,Unprovoked,AUSTRALIA,M,41,N
+2009.0,Provoked,AZORES,M,49,N
+2009.0,Invalid,BRAZIL,M,17,Y
+2009.0,Unprovoked,CUBA,M,15,N
+2009.0,Unprovoked,AUSTRALIA,M,19,N
+2009.0,Unprovoked,SOUTH AFRICA,M,25,Y
+2009.0,Invalid,BRAZIL,M,17,Y
+2009.0,Unprovoked,AUSTRALIA,M,24,N
+2009.0,Unprovoked,AUSTRALIA,F,13,N
+2009.0,Unprovoked,AUSTRALIA,M,31,N
+2009.0,Unprovoked,ECUADOR,M,22,N
+2009.0,Unprovoked,NEW ZEALAND,M,49,N
+2008.0,Unprovoked,AUSTRALIA,M,10,N
+2008.0,Unprovoked,AUSTRALIA,M,29,N
+2008.0,Unprovoked,AUSTRALIA,M,51,Y
+2008.0,Provoked,SOUTH AFRICA,M,15,N
+2008.0,Sea Disaster,TAIWAN,M,45,Y
+2008.0,Unprovoked,PHILIPPINES,M,39,Y
+2008.0,Provoked,AUSTRALIA,M,34,N
+2008.0,Unprovoked,NEW CALEDONIA,M,24,N
+2008.0,Provoked,AUSTRALIA,M,50,N
+2008.0,Unprovoked,AUSTRALIA,M,15,N
+2008.0,Unprovoked,USA,M,11,N
+2008.0,Unprovoked,CROATIA,M,43,N
+2008.0,Unprovoked,USA,M,44,N
+2008.0,Unprovoked,USA,M,40,N
+2008.0,Provoked,AUSTRALIA,M,43,N
+2008.0,Unprovoked,USA,M,32,N
+2008.0,Unprovoked,USA,M,40,N
+2008.0,Unprovoked,AUSTRALIA,M,51,N
+2008.0,Unprovoked,USA,M,43,N
+2008.0,Unprovoked,USA,M,15,N
+2008.0,Unprovoked,USA,M,52,N
+2008.0,Unprovoked,AUSTRALIA,M,29,N
+2008.0,Invalid,USA,M,27,Y
+2008.0,Provoked,ENGLAND,M,52,N
+2008.0,Unprovoked,USA,M,19,N
+2008.0,Unprovoked,USA,M,26,N
+2008.0,Unprovoked,USA,M,20,N
+2008.0,Invalid,USA,F,20,N
+2008.0,Unprovoked,USA,M,47,N
+2008.0,Invalid,USA,M,7,N
+2008.0,Unprovoked,USA,F,38,N
+2008.0,Unprovoked,USA,F,13,N
+2008.0,Unprovoked,AUSTRALIA,M,31,N
+2008.0,Unprovoked,MEXICO,M,33,N
+2008.0,Unprovoked,USA,M,17,N
+2008.0,Unprovoked,USA,F,44,N
+2008.0,Unprovoked,USA,M,9,N
+2008.0,Unprovoked,USA,F,8,N
+2008.0,Provoked,USA,M,15,N
+2008.0,Unprovoked,USA,M,16,N
+2008.0,Invalid,USA,M,52,N
+2008.0,Unprovoked,USA,M,24,N
+2008.0,Unprovoked,USA,F,14,N
+2008.0,Unprovoked,USA,F,17,N
+2008.0,Boat,UNITED KINGDOM,M,16,N
+2008.0,Invalid,USA,M,53,Y
+2008.0,Unprovoked,BAHAMAS,M,42,N
+2008.0,Unprovoked,SOUTH AFRICA,M,46,N
+2008.0,Unprovoked,USA,M,29,N
+2008.0,Unprovoked,USA,M,37,N
+2008.0,Unprovoked,USA,F,40,N
+2008.0,Unprovoked,USA,F,35,N
+2008.0,Unprovoked,BRAZIL,M,14,N
+2008.0,Unprovoked,USA,M,40,N
+2008.0,Unprovoked,USA,F,15,N
+2008.0,Unprovoked,BRAZIL,M,14,N
+2008.0,Unprovoked,USA,M,9,N
+2008.0,Unprovoked,MEXICO,M,49,N
+2008.0,Unprovoked,MEXICO,M,21,Y
+2008.0,Unprovoked,FIJI,M,28,Y
+2008.0,Unprovoked,AUSTRALIA,M,37,N
+2008.0,Unprovoked,NEW CALEDONIA,M,40,N
+2008.0,Unprovoked,USA,M,6,N
+2008.0,Provoked,SOUTH AFRICA,M,24,N
+2008.0,Unprovoked,MEXICO,M,24,Y
+2008.0,Unprovoked,USA,M,18,N
+2008.0,Unprovoked,USA,M,24,N
+2008.0,Unprovoked,NEW CALEDONIA,M,32,N
+2008.0,Provoked,USA,M,21,N
+2008.0,Unprovoked,USA,M,66,Y
+2008.0,Unprovoked,USA,M,14,N
+2008.0,Invalid,MEXICO,M,32,Y
+2008.0,Invalid,AUSTRALIA,M,19,N
+2008.0,Unprovoked,USA,M,30,N
+2008.0,Unprovoked,USA,M,15,N
+2008.0,Unprovoked,AUSTRALIA,M,16,Y
+2008.0,Unprovoked,USA,M,18,N
+2008.0,Unprovoked,SOUTH AFRICA,M,39,N
+2008.0,Unprovoked,USA,M,52,N
+2008.0,Unprovoked,USA,M,13,N
+2008.0,Unprovoked,USA,M,14,N
+2008.0,Unprovoked,USA,M,8,N
+2008.0,Unprovoked,USA,M,27,N
+2008.0,Unprovoked,BAHAMAS,M,49,Y
+2008.0,Unprovoked,FRENCH POLYNESIA,M,26,N
+2008.0,Unprovoked,USA,M,25,N
+2008.0,Unprovoked,AUSTRALIA,F,14,N
+2008.0,Unprovoked,SOUTH AFRICA,M,42,N
+2008.0,Provoked,AUSTRALIA,M,20,N
+2008.0,Unprovoked,USA,M,20,N
+2008.0,Unprovoked,MEXICO,M,26,N
+2007.0,Unprovoked,ECUADOR,M,24,N
+2007.0,Invalid,BRITISH VIRGIN ISLANDS,M,53,Y
+2007.0,Unprovoked,AUSTRALIA,M,31,N
+2007.0,Unprovoked,AUSTRALIA,M,teen,N
+2007.0,Invalid,AUSTRALIA,M,34,N
+2007.0,Unprovoked,USA,M,52,N
+2007.0,Unprovoked,BRAZIL,M,28,N
+2007.0,Provoked,AUSTRALIA,M,32,N
+2007.0,Unprovoked,SOUTH AFRICA,M,14,N
+2007.0,Unprovoked,USA,M,21,N
+2007.0,Unprovoked,USA,M,42,N
+2007.0,Unprovoked,SOUTH AFRICA,M,37,N
+2007.0,Unprovoked,USA,M,32,N
+2007.0,Unprovoked,AUSTRALIA,F,52,N
+2007.0,Unprovoked,AUSTRALIA,M,31,N
+2007.0,Unprovoked,USA,M,22,N
+2007.0,Unprovoked,USA,M,16,N
+2007.0,Unprovoked,NEW CALEDONIA,F,23,Y
+2007.0,Unprovoked,BAHAMAS,F,48,N
+2007.0,Unprovoked,EGYPT,F,18 or 20,N
+2007.0,Unprovoked,USA,M,23,N
+2007.0,Unprovoked,USA,M,56,N
+2007.0,Unprovoked,USA,F,Teen,N
+2007.0,Unprovoked,USA,M,14,N
+2007.0,Unprovoked,USA,F,58,N
+2007.0,Unprovoked,USA,F,36,N
+2007.0,Unprovoked,USA,M,15,N
+2007.0,Unprovoked,USA,F,12,N
+2007.0,Unprovoked,USA,M,58,N
+2007.0,Unprovoked,USA,M,15,N
+2007.0,Unprovoked,USA,M,24,N
+2007.0,Unprovoked,USA,M,54,N
+2007.0,Unprovoked,USA,M,27,N
+2007.0,Unprovoked,USA,M,52,N
+2007.0,Unprovoked,USA,M,16,N
+2007.0,Unprovoked,USA,M,7,N
+2007.0,Unprovoked,USA,M,20,N
+2007.0,Unprovoked,USA,F,15,N
+2007.0,Unprovoked,USA,M,19,N
+2007.0,Unprovoked,USA,M,30,N
+2007.0,Unprovoked,USA,M,9,N
+2007.0,Unprovoked,USA,F,19,N
+2007.0,Unprovoked,USA,M,51,N
+2007.0,Unprovoked,USA,M,20,N
+2007.0,Unprovoked,USA,M,36,N
+2007.0,Unprovoked,AUSTRALIA,M,15,N
+2007.0,Unprovoked,USA,M,14,N
+2007.0,Provoked,NORWAY,M,48,N
+2007.0,Invalid,USA,F,43,N
+2007.0,Unprovoked,USA,F,30,N
+2007.0,Unprovoked,BAHAMAS,F,48,N
+2007.0,Unprovoked,USA,M,18,N
+2007.0,Unprovoked,REUNION,M,17,N
+2007.0,Unprovoked,USA,M,20,N
+2007.0,Invalid,USA,F,9,N
+2007.0,Provoked,USA,F,40,N
+2007.0,Provoked,ENGLAND,M,38,N
+2007.0,Unprovoked,AUSTRALIA,F,38,N
+2007.0,Unprovoked,AUSTRALIA,M,19,N
+2007.0,Unprovoked,USA,F,21,N
+2007.0,Invalid,AUSTRALIA,M,45,Y
+2007.0,Unprovoked,USA,F,63,N
+2007.0,Unprovoked,USA,M,68,N
+2007.0,Provoked,BAHAMAS,F,20,N
+2007.0,Unprovoked,AUSTRALIA,F,13,N
+2007.0,Unprovoked,USA,M,12,N
+2007.0,Unprovoked,USA,M,24,N
+2007.0,Unprovoked,NEW CALEDONIA,M,26,N
+2007.0,Unprovoked,USA,M,7,N
+2007.0,Unprovoked,USA,M,27,N
+2007.0,Unprovoked,USA,M,9,N
+2007.0,Unprovoked,USA,M,11,N
+2007.0,Unprovoked,AUSTRALIA,F,42,N
+2007.0,Unprovoked,AUSTRALIA,F,59,N
+2007.0,Unprovoked,USA,M,29,N
+2007.0,Provoked,NEW ZEALAND,M,16,N
+2007.0,Invalid,COSTA RICA,M,36,Y
+2007.0,Unprovoked,AUSTRALIA,M,26,N
+2007.0,Unprovoked,NEW CALEDONIA,M,30,N
+2007.0,Unprovoked,AUSTRALIA,M,41,N
+2007.0,Invalid,AUSTRALIA,M,20,Y
+2007.0,Unprovoked,SOUTH AFRICA,M,24,Y
+2007.0,Invalid,USA,M,54,N
+2007.0,Unprovoked,USA,M,24,N
+2006.0,Unprovoked,AUSTRALIA,M,25,N
+2006.0,Unprovoked,NEW ZEALAND,M,10,N
+2006.0,Unprovoked,USA,M,43,N
+2006.0,Provoked,SOUTH AFRICA,M,25,N
+2006.0,Unprovoked,AUSTRALIA,M,15,N
+2006.0,Unprovoked,USA,M,29,N
+2006.0,Unprovoked,USA,M,22,N
+2006.0,Unprovoked,USA,M,15,N
+2006.0,Unprovoked,USA,M,20,N
+2006.0,Unprovoked,USA,M,18,N
+2006.0,Unprovoked,BAHAMAS,F,26,N
+2006.0,Invalid,SOUTH AFRICA,M,36,N
+2006.0,Unprovoked,USA,M,19,N
+2006.0,Unprovoked,USA,M,16,N
+2006.0,Unprovoked,USA,M,55,N
+2006.0,Unprovoked,USA,M,52,N
+2006.0,Invalid,AUSTRALIA,M,44,Y
+2006.0,Unprovoked,BRAZIL,M,20,Y
+2006.0,Unprovoked,USA,M,33,N
+2006.0,Unprovoked,USA,M,12 or 13,N
+2006.0,Unprovoked,SOUTH AFRICA,M,37,N
+2006.0,Unprovoked,USA,M,23,N
+2006.0,Unprovoked,REUNION,M,27,N
+2006.0,Invalid,BRAZIL,M,17,Y
+2006.0,Invalid,BELIZE,M,34,Y
+2006.0,Unprovoked,REUNION,M,34,Y
+2006.0,Unprovoked,SOUTH AFRICA,M,24,N
+2006.0,Unprovoked,USA,F,59,N
+2006.0,Unprovoked,USA,M,41,N
+2006.0,Unprovoked,USA,M,15,N
+2006.0,Unprovoked,SOUTH AFRICA,M,19,N
+2006.0,Unprovoked,USA,M,14,N
+2006.0,Unprovoked,USA,M,49,N
+2006.0,Invalid,SPAIN,F,7,N
+2006.0,Unprovoked,USA,F,21,N
+2006.0,Unprovoked,USA,M,40,N
+2006.0,Unprovoked,USA,M,11,N
+2006.0,Unprovoked,USA,F,14,N
+2006.0,Unprovoked,USA,M,13,N
+2006.0,Unprovoked,USA,F,28,N
+2006.0,Unprovoked,USA,M,35,N
+2006.0,Unprovoked,USA,F,9,N
+2006.0,Unprovoked,BAHAMAS,M,25,N
+2006.0,Unprovoked,USA,F,22,N
+2006.0,Unprovoked,BRAZIL,M,27,Y
+2006.0,Unprovoked,USA,M,43,N
+2006.0,Unprovoked,USA,M,24,N
+2006.0,Unprovoked,USA,F,7,N
+2006.0,Unprovoked,AUSTRALIA,M,40,N
+2006.0,Unprovoked,USA,M,26,N
+2006.0,Unprovoked,USA,M,31,N
+2006.0,Provoked,USA,M,15,N
+2006.0,Unprovoked,BRAZIL,M,33,N
+2006.0,Unprovoked,USA,F,30s,N
+2006.0,Unprovoked,USA,F,20s,N
+2006.0,Provoked,AUSTRALIA,M,46,N
+2006.0,Unprovoked,USA,M,54,N
+2006.0,Unprovoked,USA,F,13,N
+2006.0,Provoked,USA,M,35,N
+2006.0,Unprovoked,AUSTRALIA,M,15,N
+2006.0,Unprovoked,SOUTH AFRICA,M,15,N
+2006.0,Unprovoked,BRAZIL,M,35,N
+2006.0,Unprovoked,USA,M,11,N
+2006.0,Unprovoked,USA,F,28,N
+2006.0,Invalid,SOUTH AFRICA,M,17,Y
+2006.0,Unprovoked,FIJI,M,21,N
+2006.0,Unprovoked,AUSTRALIA,M,15,N
+2006.0,Unprovoked,USA,F,15,N
+2006.0,Invalid,USA,M,45,Y
+2006.0,Unprovoked,AUSTRALIA,M,18,N
+2006.0,Unprovoked,SOUTH AFRICA,M,15,N
+2006.0,Unprovoked,TONGA,F,24,Y
+2006.0,Boat,USA,M,57,N
+2006.0,Boat,ATLANTIC OCEAN,M,46 & 34,N
+2006.0,Unprovoked,SOUTH AFRICA,M,34,N
+2006.0,Boat,ATLANTIC OCEAN,F,"28, 23 & 30",N
+2006.0,Unprovoked,AUSTRALIA,M,52,N
+2006.0,Unprovoked,AUSTRALIA,F,21,Y
+2006.0,Unprovoked,USA,M,21,N
+2006.0,Unprovoked,SOUTH AFRICA,M,49,N
+2005.0,Unprovoked,USA,M,30,N
+2005.0,Unprovoked,USA,M,29,N
+2005.0,Unprovoked,AUSTRALIA,M,44,N
+2005.0,Unprovoked,USA,M,teen,N
+2005.0,Unprovoked,USA,M,23,N
+2005.0,Unprovoked,AUSTRALIA,M,18,N
+2005.0,Unprovoked,SOUTH AFRICA,M,26,N
+2005.0,Unprovoked,USA,M,30s,N
+2005.0,Unprovoked,USA,M,17,N
+2005.0,Provoked,SOUTH AFRICA,M,32,N
+2005.0,Unprovoked,USA,M,18,N
+2005.0,Unprovoked,USA,M,25,N
+2005.0,Unprovoked,USA,M,26,N
+2005.0,Unprovoked,USA,M,15,N
+2005.0,Unprovoked,ST. MAARTIN,M,55,N
+2005.0,Unprovoked,SOUTH AFRICA,M,20,N
+2005.0,Unprovoked,USA,M,36,N
+2005.0,Unprovoked,USA,F,20,N
+2005.0,Provoked,USA,M,15,N
+2005.0,Unprovoked,USA,M,22,N
+2005.0,Unprovoked,GRAND CAYMAN,F,57,N
+2005.0,Unprovoked,USA,M,48,N
+2005.0,Unprovoked,BAHAMAS,M,35,N
+2005.0,Unprovoked,SOUTH AFRICA,M,52,N
+2005.0,Unprovoked,AUSTRALIA,M,28,N
+2005.0,Unprovoked,AUSTRALIA,M,26,N
+2005.0,Unprovoked,AUSTRALIA,M,44,N
+2005.0,Unprovoked,USA,F,68,N
+2005.0,Unprovoked,USA,M,18,Y
+2005.0,Unprovoked,AUSTRALIA,M,15,N
+2005.0,Unprovoked,USA,F,18,N
+2005.0,Unprovoked,AUSTRALIA,M,40,N
+2005.0,Unprovoked,USA,M,62,N
+2005.0,Provoked,THAILAND,M,21,Y
+2005.0,Unprovoked,AUSTRALIA,M,23,Y
+2005.0,Unprovoked,USA,M,37,N
+2005.0,Invalid,USA,M,17,N
+2005.0,Unprovoked,USA,M,8,N
+2005.0,Unprovoked,USA,M,12,N
+2005.0,Unprovoked,USA,M,16,N
+2005.0,Unprovoked,USA,M,14,N
+2005.0,Unprovoked,USA,F,13,N
+2005.0,Unprovoked,USA,M,61,N
+2005.0,Invalid,USA,M,25,N
+2005.0,Provoked,CHINA,M,24,N
+2005.0,Unprovoked,USA,M,22,N
+2005.0,Unprovoked,USA,F,14,N
+2005.0,Unprovoked,USA,M,19,N
+2005.0,Unprovoked,USA,M,16,N
+2005.0,Unprovoked,USA,F,14,Y
+2005.0,Unprovoked,VANUATU,F,7,Y
+2005.0,Invalid,USA,M,49,N
+2005.0,Unprovoked,USA,M,20,N
+2005.0,Unprovoked,SOUTH KOREA,F,38,N
+2005.0,Unprovoked,USA,F,11,N
+2005.0,Invalid,USA,M,17,N
+2005.0,Unprovoked,SOUTH AFRICA,M,22,Y
+2005.0,Unprovoked,USA,M,6,N
+2005.0,Unprovoked,USA,M,33,N
+2005.0,Unprovoked,SOUTH AFRICA,M,32,N
+2005.0,Sea Disaster,USA,M,Teens,N
+2005.0,Unprovoked,USA,M,47,N
+2005.0,Provoked,AUSTRALIA,M,25,N
+2005.0,Unprovoked,AUSTRALIA,M,20,N
+2005.0,Unprovoked,AUSTRALIA,M,40,N
+2005.0,Unprovoked,USA,F,70,N
+2005.0,Invalid,USA,M,52,N
+2005.0,Unprovoked,USA,M,37,N
+2005.0,Unprovoked,SOUTH AFRICA,M,32,N
+2005.0,Unprovoked,AUSTRALIA,M,26,Y
+2005.0,Provoked,USA,M,45,N
+2005.0,Invalid,SOUTH AFRICA,M,51,N
+2005.0,Unprovoked,AUSTRALIA,M,18,N
+2005.0,Unprovoked,BRAZIL,M,12,N
+2005.0,Unprovoked,CUBA,M,19,N
+2005.0,Unprovoked,NEW ZEALAND,M,39,N
+2004.0,Invalid,SRI LANKA,F,11,N
+2004.0,Unprovoked,AUSTRALIA,M,18,Y
+2004.0,Unprovoked,AUSTRALIA,M,38,Y
+2004.0,Unprovoked,SOUTH AFRICA,M,20,N
+2004.0,Unprovoked,SOUTH AFRICA,M,16,N
+2004.0,Unprovoked,SOUTH AFRICA,F,77,Y
+2004.0,Unprovoked,USA,lli,38,N
+2004.0,Unprovoked,VANUATU,M,30s,N
+2004.0,Unprovoked,CUBA,M,40,N
+2004.0,Unprovoked,SOUTH AFRICA,M,52,N
+2004.0,Unprovoked,AUSTRALIA,M,59,N
+2004.0,Unprovoked,USA,M,34,N
+2004.0,Unprovoked,SOUTH AFRICA,M,34,N
+2004.0,Unprovoked,REUNION,M,15,N
+2004.0,Unprovoked,USA,M,16,N
+2004.0,Unprovoked,USA,M,40,N
+2004.0,Unprovoked,USA,M,26,N
+2004.0,Unprovoked,USA,F,17,N
+2004.0,Unprovoked,USA,F,38,N
+2004.0,Unprovoked,BRAZIL,M,24,N
+2004.0,Unprovoked,USA,M,50,Y
+2004.0,Unprovoked,USA,M,47,N
+2004.0,Unprovoked,AUSTRALIA,M,30,N
+2004.0,Unprovoked,USA,F,20,N
+2004.0,Unprovoked,USA,F,28,N
+2004.0,Unprovoked,USA,F,13,N
+2004.0,Unprovoked,USA,F,19,N
+2004.0,Unprovoked,USA,M,11,N
+2004.0,Unprovoked,JAPAN,M,51,N
+2004.0,Unprovoked,AUSTRALIA,M,30,Y
+2004.0,Unprovoked,EGYPT,F,Teen,N
+2004.0,Unprovoked,USA,M,7,N
+2004.0,Unprovoked,USA,M,45,N
+2004.0,Unprovoked,AUSTRALIA,M,17,N
+2004.0,Unprovoked,USA,M,8,N
+2004.0,Unprovoked,SOUTH AFRICA,M,21,Y
+2004.0,Unprovoked,USA,M,16,N
+2004.0,Unprovoked,BRAZIL,M,17,N
+2004.0,Unprovoked,USA,M,44,N
+2004.0,Unprovoked,USA,M,9,N
+2004.0,Invalid,USA,M,9,N
+2004.0,Unprovoked,USA,F,9,N
+2004.0,Unprovoked,BRAZIL,F,24,N
+2004.0,Provoked,BAHAMAS,M,63,N
+2004.0,Unprovoked,USA,M,28,N
+2004.0,Unprovoked,BRAZIL,M,22,Y
+2004.0,Unprovoked,USA,M,57,Y
+2004.0,Unprovoked,SOUTH AFRICA,M,16,N
+2004.0,Invalid,USA,F,22,Y
+2004.0,Unprovoked,USA,M,26,N
+2004.0,Unprovoked,USA,M,20,N
+2004.0,Unprovoked,BRAZIL,M,22,N
+2004.0,Unprovoked,REUNION,M,20,N
+2004.0,Unprovoked,USA,M,61,N
+2004.0,Unprovoked,USA,M,51,N
+2004.0,Unprovoked,AUSTRALIA,M,47,N
+2004.0,Unprovoked,BRAZIL,M,29,Y
+2004.0,Unprovoked,NEW ZEALAND,M,15,N
+2004.0,Invalid,AUSTRALIA,M,31,N
+2004.0,Unprovoked,AUSTRALIA,M,22,N
+2004.0,Unprovoked,AUSTRALIA,M,46,N
+2004.0,Unprovoked,URUGUAY,M,21,N
+2004.0,Unprovoked,VENEZUELA,M,40,N
+2004.0,Unprovoked,SOUTH AFRICA,M,22,N
+2003.0,Invalid,USA,M,28,N
+2003.0,Unprovoked,USA,M,13,N
+2003.0,Unprovoked,NEW ZEALAND,M,45,Y
+2003.0,Unprovoked,AUSTRALIA,M,36,N
+2003.0,Unprovoked,SOUTH AFRICA,M,21,Y
+2003.0,Unprovoked,USA,F,35,N
+2003.0,Unprovoked,INDIA,M,35,N
+2003.0,Unprovoked,USA,M,24,N
+2003.0,Unprovoked,USA,M,18,N
+2003.0,Unprovoked,AUSTRALIA,M,22,N
+2003.0,Unprovoked,USA,F,13,N
+2003.0,Unprovoked,USA,M,46,N
+2003.0,Invalid,USA,M,56,N
+2003.0,Unprovoked,USA,M,19,N
+2003.0,Unprovoked,USA,M,18,N
+2003.0,Provoked,USA,M,30,N
+2003.0,Unprovoked,USA,M,50,N
+2003.0,Unprovoked,USA,F,41,N
+2003.0,Unprovoked,FIJI,M,40,Y
+2003.0,Unprovoked,USA,M,16,N
+2003.0,Unprovoked,USA,M,21,N
+2003.0,Unprovoked,USA,M,19,N
+2003.0,Unprovoked,USA,M,17,N
+2003.0,Unprovoked,USA,M,30,N
+2003.0,Invalid,USA,F,8 or 10,N
+2003.0,Unprovoked,USA,M,18,N
+2003.0,Unprovoked,USA,M,15,N
+2003.0,Unprovoked,SOUTH AFRICA,M,19,Y
+2003.0,Unprovoked,USA,F,50,Y
+2003.0,Invalid,USA,M,31,N
+2003.0,Unprovoked,SOUTH AFRICA,M,16,N
+2003.0,Unprovoked,AUSTRALIA,M,37,N
+2003.0,Unprovoked,USA,M,18,N
+2003.0,Unprovoked,USA,F,15,N
+2003.0,Unprovoked,BAHAMAS,M,58,N
+2003.0,Provoked,USA,M,10,N
+2003.0,Unprovoked,USA,M,21,N
+2003.0,Unprovoked,BAHAMAS,M,39,N
+2003.0,Unprovoked,USA,M,17,N
+2003.0,Unprovoked,USA,M,15,N
+2003.0,Unprovoked,USA,F,12,N
+2003.0,Unprovoked,USA,M,60,N
+2003.0,Unprovoked,USA,M,51,N
+2003.0,Unprovoked,USA,M,33,N
+2003.0,Invalid,USA,F,22,N
+2003.0,Unprovoked,USA,M,18,N
+2003.0,Unprovoked,USA,M,22,N
+2003.0,Unprovoked,USA,M,20,N
+2003.0,Provoked,USA,M,34,N
+2003.0,Unprovoked,USA,F,9,N
+2003.0,Unprovoked,BRAZIL,M,16,N
+2003.0,Unprovoked,BRAZIL,M,17,N
+2003.0,Unprovoked,BRAZIL,M,7,N
+2003.0,Unprovoked,USA,M,36,N
+2003.0,Unprovoked,USA,M,17,N
+2003.0,Unprovoked,USA,M,30,N
+2003.0,Unprovoked,USA,M,23,N
+2003.0,Unprovoked,USA,M,18,N
+2003.0,Unprovoked,USA,M,11,N
+2003.0,Unprovoked,USA,M,12,N
+2003.0,Unprovoked,USA,M,20,N
+2003.0,Unprovoked,VENEZUELA,M,28,N
+2003.0,Unprovoked,USA,M,50,N
+2003.0,Unprovoked,NEW ZEALAND,M,44,N
+2003.0,Unprovoked,AUSTRALIA,M,37,N
+2003.0,Unprovoked,USA,M,54,N
+2003.0,Unprovoked,AUSTRALIA,M,24,N
+2003.0,Unprovoked,AUSTRALIA,M,84,Y
+2003.0,Invalid,SOUTH AFRICA,M,14,Y
+2002.0,Unprovoked,AUSTRALIA,F,18,N
+2002.0,Unprovoked,SOUTH AFRICA,M,25,N
+2002.0,Unprovoked,AUSTRALIA,M,26,N
+2002.0,Invalid,AUSTRALIA,M,11,N
+2002.0,Unprovoked,AUSTRALIA,M,23,Y
+2002.0,Unprovoked,BRAZIL,M,19,Y
+2002.0,Unprovoked,USA,M,48,N
+2002.0,Unprovoked,USA,F,34,N
+2002.0,Unprovoked,TURKS & CAICOS,F,41,N
+2002.0,Unprovoked,USA,M,21,N
+2002.0,Unprovoked,USA,M,16,N
+2002.0,Unprovoked,FRENCH POLYNESIA,M,52,N
+2002.0,Unprovoked,USA,F,60,N
+2002.0,Unprovoked,BRAZIL,M,36,Y
+2002.0,Unprovoked,USA,M,21,N
+2002.0,Unprovoked,USA,M,14,N
+2002.0,Unprovoked,USA,M,35,N
+2002.0,Unprovoked,USA,M,18,N
+2002.0,Unprovoked,USA,M,47,N
+2002.0,Unprovoked,USA,M,32,N
+2002.0,Unprovoked,USA,M,55,N
+2002.0,Provoked,USA,M,  ,N
+2002.0,Provoked,TONGA,M, ,N
+2002.0,Unprovoked,USA,M,24,N
+2002.0,Unprovoked,USA,M,35,N
+2002.0,Unprovoked,BRAZIL,M,19,N
+2002.0,Unprovoked,SOUTH AFRICA,M,47,N
+2002.0,Unprovoked,USA,M,20,N
+2002.0,Provoked,USA,M,36,N
+2002.0,Unprovoked,USA,M,16,N
+2002.0,Unprovoked,USA,F,29,N
+2002.0,Unprovoked,USA,M,27,N
+2002.0,Unprovoked,USA,M,15,N
+2002.0,Unprovoked,USA,M,15,N
+2002.0,Provoked,UNITED KINGDOM,M,30,N
+2002.0,Unprovoked,USA,M,14,N
+2002.0,Unprovoked,USA,M,13,N
+2002.0,Unprovoked,USA,F,15,N
+2002.0,Provoked,USA,M,19,N
+2002.0,Provoked,USA,M,41,Y
+2002.0,Unprovoked,BRAZIL,M,22,N
+2002.0,Unprovoked,USA,F,9,N
+2002.0,Unprovoked,AUSTRALIA,M,30,N
+2002.0,Unprovoked,USA,F,11,N
+2002.0,Unprovoked,USA,M,28,N
+2002.0,Unprovoked,USA,M,50,N
+2002.0,Unprovoked,USA,M,10,N
+2002.0,Unprovoked,SOUTH AFRICA,M,50,N
+2002.0,Unprovoked,USA,M,24,N
+2002.0,Unprovoked,USA,M,16,N
+2002.0,Provoked,USA,M,55,N
+2002.0,Unprovoked,USA,M,35,N
+2002.0,Unprovoked,PAPUA NEW GUINEA,M,14,N
+2002.0,Unprovoked,USA,M,31,N
+2002.0,Unprovoked,BRAZIL,M,40,N
+2002.0,Provoked,AUSTRALIA,M,20,N
+2002.0,Unprovoked,AUSTRALIA,M,23,Y
+2002.0,Invalid,AUSTRALIA,M,52,Y
+2002.0,Unprovoked,USA,M,34,N
+2002.0,Unprovoked,USA,M,28,N
+2002.0,Unprovoked,AUSTRALIA,M,45,N
+2002.0,Unprovoked,BAHAMAS,M,43,N
+2002.0,Unprovoked,USA,M,41,N
+2002.0,Unprovoked,USA,M,29,N
+2002.0,Unprovoked,USA,M,17,N
+2002.0,Unprovoked,USA,F,11,N
+2002.0,Unprovoked,BRAZIL,M,16,Y
+2002.0,Unprovoked,USA,M,20,N
+2002.0,Unprovoked,USA,M,39,N
+2002.0,Unprovoked,USA,M,31,N
+2002.0,Invalid,NEW CALEDONIA,M,44,Y
+2002.0,Unprovoked,AUSTRALIA,M,30 or 36,N
+2002.0,Unprovoked,FIJI,M,15,Y
+2002.0,Unprovoked,AUSTRALIA,M,35,N
+2002.0,Unprovoked,AUSTRALIA,M,20,N
+2002.0,Unprovoked,AUSTRALIA,M,32,N
+2002.0,Unprovoked,SOUTH AFRICA,M,16,N
+2002.0,Unprovoked,SOUTH AFRICA,M,26,N
+2002.0,Unprovoked,USA,M,35,N
+2001.0,Invalid,AUSTRALIA,M,36,N
+2001.0,Unprovoked,AUSTRALIA,M,49,N
+2001.0,Unprovoked,AUSTRALIA,F,20,N
+2001.0,Unprovoked,MEXICO,M,26,N
+2001.0,Boat,AUSTRALIA,M,31,N
+2001.0,Provoked,USA,M,21,N
+2001.0,Unprovoked,USA,M,14,N
+2001.0,Invalid,USA,M,42,Y
+2001.0,Unprovoked,USA,M,6½,N
+2001.0,Unprovoked,USA,M,16,N
+2001.0,Provoked,USA,M,44,N
+2001.0,Unprovoked,USA,M,13,N
+2001.0,Unprovoked,USA,M,28,Y
+2001.0,Unprovoked,USA,F,23,N
+2001.0,Unprovoked,USA,M,20,N
+2001.0,Unprovoked,USA,M,10,Y
+2001.0,Unprovoked,BAHAMAS,M,44,N
+2001.0,Unprovoked,USA,F,29,N
+2001.0,Unprovoked,USA,M,69,N
+2001.0,Unprovoked,USA,M,18,N
+2001.0,Unprovoked,USA,M,18,N
+2001.0,Unprovoked,USA,M,17,N
+2001.0,Unprovoked,USA,M,27,N
+2001.0,Unprovoked,USA,M,32,N
+2001.0,Unprovoked,USA,F,17,N
+2001.0,Unprovoked,USA,F,17,N
+2001.0,Unprovoked,USA,M,20,N
+2001.0,Unprovoked,USA,M,19,N
+2001.0,Unprovoked,USA,M,19,N
+2001.0,Unprovoked,BAHAMAS,M,43,N
+2001.0,Unprovoked,THAILAND,M,21 & ?,N
+2001.0,Unprovoked,BAHAMAS,M,36,N
+2001.0,Unprovoked,USA,M,48,N
+2001.0,Unprovoked,USA,M,18,N
+2001.0,Unprovoked,MEXICO,M,42,N
+2001.0,Unprovoked,USA,M,8,N
+2001.0,Unprovoked,USA,M,35,N
+2001.0,Unprovoked,USA,M,14,N
+2001.0,Provoked,USA,M,52,N
+2001.0,Invalid,AUSTRALIA,M,75,Y
+2001.0,Unprovoked,USA,F,29,N
+2001.0,Unprovoked,USA,M,16,N
+2001.0,Unprovoked,USA,M,11,N
+2001.0,Provoked,PHILIPPINES,M,24,N
+2001.0,Unprovoked,SOUTH AFRICA,M,26,N
+2001.0,Unprovoked,AUSTRALIA,M,33 or 37,N
+2001.0,Unprovoked,USA,M,45,N
+2001.0,Unprovoked,USA,M,14,N
+2001.0,Unprovoked,USA,M,16,N
+2001.0,Unprovoked,USA,M,12,N
+2001.0,Unprovoked,USA,M,mid-30s,N
+2001.0,Unprovoked,USA,M,38,N
+2001.0,Unprovoked,USA,M,21,N
+2001.0,Unprovoked,USA,M,12,N
+2001.0,Unprovoked,USA,M,22,N
+2001.0,Unprovoked,USA,M,19,N
+2001.0,Unprovoked,USA,M,22,N
+2001.0,Unprovoked,SOUTH AFRICA,M,46,N
+2001.0,Unprovoked,USA,M,26,N
+2001.0,Unprovoked,BRAZIL,F,12,N
+2001.0,Unprovoked,AUSTRALIA,M,40,N
+2001.0,Invalid,BRAZIL,M,12,N
+2001.0,Unprovoked,BRAZIL,M,20,Y
+2001.0,Unprovoked,AUSTRALIA,M,40,N
+2001.0,Boat,AUSTRALIA,M,35,N
+2001.0,Unprovoked,CUBA,F,55,N
+2000.0,Unprovoked,AUSTRALIA,M,23,N
+2000.0,Unprovoked,FIJI,M,47,Y
+2000.0,Unprovoked,CANADA,M,30,N
+2000.0,Unprovoked,AUSTRALIA,M,38,N
+2000.0,Unprovoked,AUSTRALIA,M,28,N
+2000.0,Invalid,AUSTRALIA,M,47,Y
+2000.0,Unprovoked,USA,M,73,N
+2000.0,Invalid,USA,F,27,N
+2000.0,Unprovoked,AUSTRALIA,M,52,N
+2000.0,Unprovoked,AUSTRALIA,M,49,Y
+2000.0,Unprovoked,USA,M,27,N
+2000.0,Unprovoked,USA,M,23,N
+2000.0,Unprovoked,USA,F,56,N
+2000.0,Unprovoked,USA,M,69,N
+2000.0,Unprovoked,USA,M,17,N
+2000.0,Unprovoked,USA,M,23,N
+2000.0,Unprovoked,USA,M,11,N
+2000.0,Unprovoked,USA,M,24,N
+2000.0,Unprovoked,AUSTRALIA,M,17,Y
+2000.0,Unprovoked,AUSTRALIA,M,25,Y
+2000.0,Provoked,AUSTRALIA,M,12,N
+2000.0,Unprovoked,OKINAWA,M,31,Y
+2000.0,Unprovoked,USA,M,49,N
+2000.0,Unprovoked,USA,F,26,N
+2000.0,Unprovoked,USA,M,25,N
+2000.0,Unprovoked,USA,M,8,N
+2000.0,Unprovoked,SOUTH AFRICA,M,48,N
+2000.0,Unprovoked,TANZANIA,M,28,Y
+2000.0,Unprovoked,USA,M,40,N
+2000.0,Unprovoked,REUNION,M,27,N
+2000.0,Unprovoked,USA,M,47,N
+2000.0,Unprovoked,USA,M,69,Y
+2000.0,Unprovoked,USA,M,53,N
+2000.0,Unprovoked,USA,M,27,N
+2000.0,Unprovoked,USA,F,44,N
+2000.0,Invalid,USA,M,23 & 20,Y
+2000.0,Unprovoked,USA,M,5,N
+2000.0,Unprovoked,USA,F,45,N
+2000.0,Unprovoked,USA,M,16,N
+2000.0,Unprovoked,USA,M,14,N
+2000.0,Unprovoked,SOUTH AFRICA,M,15,N
+2000.0,Unprovoked,SOUTH AFRICA,M,18,N
+2000.0,Unprovoked, TONGA,M,69,N
+2000.0,Unprovoked,USA,M,13,N
+2000.0,Unprovoked,USA,M,41,N
+2000.0,Unprovoked,USA,M,5,N
+2000.0,Unprovoked,USA,F,12,N
+2000.0,Unprovoked,USA,F,20,N
+2000.0,Unprovoked,USA,F,55,N
+2000.0,Unprovoked,USA,F,13,N
+2000.0,Unprovoked,USA,F,19,N
+2000.0,Unprovoked,USA,M,52,N
+2000.0,Unprovoked,USA,M,17,N
+2000.0,Unprovoked,USA,M,55,N
+2000.0,Unprovoked,USA,M,44,N
+2000.0,Unprovoked,USA,M,13,N
+2000.0,Unprovoked,PAPUA NEW GUINEA,M,9,N
+2000.0,Unprovoked,USA,M,34,N
+2000.0,Unprovoked,AUSTRALIA,M,26,N
+2000.0,Unprovoked,USA,F,14,N
+2000.0,Unprovoked,USA,M,37,N
+2000.0,Unprovoked,NEW CALEDONIA,M,35,Y
+2000.0,Unprovoked,USA,M,39,N
+2000.0,Unprovoked,USA,M,27,N
+2000.0,Unprovoked,NEW ZEALAND,M,12,N
+2000.0,Unprovoked,AUSTRALIA,M,26,N
+2000.0,Unprovoked,THAILAND,M,35,Y
+1999.0,Unprovoked,NEW ZEALAND,M,15,N
+1999.0,Unprovoked,NEW ZEALAND,F,13,N
+1999.0,Unprovoked,NEW ZEALAND,F,12,N
+1999.0,Unprovoked,BRAZIL,M,18,N
+1999.0,Invalid,BRAZIL,M,39,N
+1999.0,Unprovoked,USA,M,35,N
+1999.0,Unprovoked,USA,M,19,N
+1999.0,Unprovoked,USA,F,51,N
+1999.0,Unprovoked,SOUTH AFRICA,M,35,N
+1999.0,Unprovoked,BRAZIL,M,39,N
+1999.0,Unprovoked,MARSHALL ISLANDS,M,12,N
+1999.0,Unprovoked,MARSHALL ISLANDS,M,12,N
+1999.0,Unprovoked,USA,M,45,N
+1999.0,Unprovoked,USA,M,13,N
+1999.0,Unprovoked,USA,M,16,N
+1999.0,Unprovoked,USA,M,22,N
+1999.0,Unprovoked,USA,F,61,N
+1999.0,Unprovoked,USA,F,10,N
+1999.0,Unprovoked,USA,M,13,N
+1999.0,Provoked,USA,M,7,N
+1999.0,Unprovoked,USA,M,39,N
+1999.0,Unprovoked,USA,M,28,N
+1999.0,Unprovoked,MARSHALL ISLANDS,M,23,N
+1999.0,Unprovoked,USA,M,17,N
+1999.0,Unprovoked,USA,M,10,N
+1999.0,Unprovoked,USA,M,62,N
+1999.0,Unprovoked,BAHAMAS,M,35,N
+1999.0,Unprovoked,SOUTH AFRICA,M,42,N
+1999.0,Unprovoked,USA,M,43,N
+1999.0,Unprovoked,USA,M,43,N
+1999.0,Unprovoked,SOUTH AFRICA,M,14,Y
+1999.0,Unprovoked,USA,F,30,N
+1999.0,Unprovoked,SOUTH AFRICA,M,29,N
+1999.0,Unprovoked,USA,M,20,N
+1999.0,Unprovoked,USA,M,21,N
+1999.0,Unprovoked,USA,M,41,N
+1999.0,Unprovoked,USA,M,5,N
+1999.0,Unprovoked,AUSTRALIA,M,22,Y
+1999.0,Unprovoked,BRAZIL,M,21,N
+1999.0,Unprovoked,MAURITIUS,F,41,N
+1999.0,Unprovoked,REUNION,M,52,Y
+1999.0,Unprovoked,USA,M,14,N
+1999.0,Unprovoked,USA,F,29,Y
+1999.0,Provoked,NEW ZEALAND,M,28,N
+1999.0,Unprovoked,USA,M,18,N
+1999.0,Unprovoked,USA,F,29,N
+1999.0,Unprovoked,AUSTRALIA,M,35,N
+1999.0,Unprovoked,USA,M,25,N
+1999.0,Unprovoked,MAURITIUS,M,47,N
+1999.0,Invalid,AUSTRALIA,F,37,N
+1999.0,Unprovoked,SOUTH AFRICA,M,30,N
+1998.0,Provoked,USA,M,19,N
+1998.0,Unprovoked,AUSTRALIA,F,21,N
+1998.0,Unprovoked,SOUTH AFRICA,M,18,N
+1998.0,Unprovoked,SOUTH AFRICA,M,14,N
+1998.0,Unprovoked,AUSTRALIA,F,21,N
+1998.0,Unprovoked,USA,M,9,Y
+1998.0,Unprovoked,USA,M,14,N
+1998.0,Unprovoked,USA,M,13,N
+1998.0,Unprovoked,USA,M,32,N
+1998.0,Provoked,JAPAN,M,52,N
+1998.0,Unprovoked,BRAZIL,M,22,Y
+1998.0,Unprovoked,USA,F,17,N
+1998.0,Unprovoked,SOUTH AFRICA,M,30,N
+1998.0,Unprovoked,BRAZIL,M,17,N
+1998.0,Unprovoked,USA,M,28,N
+1998.0,Unprovoked,USA,M,6,N
+1998.0,Unprovoked,USA,M,18,N
+1998.0,Unprovoked,USA,M,28,N
+1998.0,Provoked,SENEGAL,M,25,N
+1998.0,Unprovoked,USA,M,26,N
+1998.0,Unprovoked,USA,M,16,N
+1998.0,Unprovoked,BAHAMAS,M,28,N
+1998.0,Unprovoked,USA,M,11,N
+1998.0,Unprovoked,SOUTH AFRICA,M,19,N
+1998.0,Unprovoked,SOUTH AFRICA,M,24,N
+1998.0,Unprovoked,USA,M,13,N
+1998.0,Unprovoked,SOUTH AFRICA,M,47,N
+1998.0,Unprovoked,SOUTH AFRICA,M,16,N
+1998.0,Unprovoked,SOUTH AFRICA,M,10,N
+1998.0,Unprovoked,AUSTRALIA,M,26,Y
+1998.0,Unprovoked,SOUTH AFRICA,M,20,Y
+1998.0,Unprovoked,USA,M,18,N
+1998.0,Unprovoked,SOUTH AFRICA,M,17,N
+1998.0,Unprovoked,SOUTH AFRICA,M,15,N
+1998.0,Unprovoked,SOUTH AFRICA,M,16,N
+1998.0,Unprovoked,USA,M,40,N
+1998.0,Unprovoked,USA,F,14,N
+1998.0,Unprovoked,USA,M,24,N
+1998.0,Unprovoked,SOUTH AFRICA,M,22,N
+1998.0,Unprovoked,MOZAMBIQUE,F,35,Y
+1998.0,Unprovoked,USA,M,50,N
+1998.0,Provoked,USA,M,16,N
+1998.0,Unprovoked,USA,M,40,N
+1998.0,Unprovoked,SOUTH AFRICA,M,33,N
+1998.0,Unprovoked,USA,M,32,N
+1998.0,Invalid,AUSTRALIA,M,31,Y
+1998.0,Unprovoked,SOUTH AFRICA,M,21,N
+1998.0,Unprovoked,MOZAMBIQUE,M,23,N
+1998.0,Unprovoked,SOUTH AFRICA,M,28,Y
+1997.0,Unprovoked,SOUTH AFRICA,M,39,Y
+1997.0,Invalid,USA,F,29,N
+1997.0,Unprovoked,USA,M,8,N
+1997.0,Unprovoked,AUSTRALIA,M,42,N
+1997.0,Unprovoked,USA,M,32,N
+1997.0,Invalid,AUSTRALIA,M,21,Y
+1997.0,Unprovoked,AUSTRALIA,M,51,N
+1997.0,Unprovoked,USA,M,19,N
+1997.0,Unprovoked,USA,M,23,N
+1997.0,Unprovoked,USA,M,12,N
+1997.0,Unprovoked,USA,F,14,N
+1997.0,Unprovoked,BRAZIL,M,20,Y
+1997.0,Unprovoked,USA,M,12,N
+1997.0,Unprovoked,USA,M,20,N
+1997.0,Unprovoked,USA,M,18,N
+1997.0,Unprovoked,USA,M,22,N
+1997.0,Unprovoked,USA,M,29,N
+1997.0,Invalid,MEXICO,M,28,Y
+1997.0,Unprovoked,MEXICO,M,33,Y
+1997.0,Unprovoked,USA,F,12,N
+1997.0,Unprovoked,EGYPT,M,17,N
+1997.0,Unprovoked,EGYPT,M,16,Y
+1997.0,Unprovoked,USA,M,17,N
+1997.0,Unprovoked,USA,F,10,N
+1997.0,Unprovoked,USA,M,17,N
+1997.0,Unprovoked,USA,M,19,N
+1997.0,Unprovoked,AUSTRALIA,M,19,N
+1997.0,Unprovoked,SOUTH AFRICA,M,25,Y
+1997.0,Unprovoked,USA,M,50,N
+1997.0,Unprovoked,OKINAWA,M,55,Y
+1997.0,Unprovoked,FIJI,F,47,N
+1997.0,Unprovoked,USA,M,18,N
+1997.0,Unprovoked,USA,M,33,N
+1997.0,Unprovoked,USA,M,35,N
+1997.0,Unprovoked,USA,M,34,N
+1997.0,Unprovoked,USA,M,12,N
+1997.0,Unprovoked,BAHAMAS,M,54,N
+1997.0,Unprovoked,BRAZIL,M,22,N
+1997.0,Unprovoked,AUSTRALIA,F,21,N
+1997.0,Unprovoked,AUSTRALIA,M,30,N
+1997.0,Boat,AUSTRALIA,F,49,N
+1997.0,Unprovoked,AUSTRALIA,M,27,N
+1997.0,Unprovoked,AUSTRALIA,M,41,Y
+1996.0,Unprovoked,AUSTRALIA,M,18,UNKNOWN
+1996.0,Unprovoked,USA,M,45,N
+1996.0,Unprovoked,USA,M,26,N
+1996.0,Unprovoked,USA,M,22,N
+1996.0,Unprovoked,USA,M,21,N
+1996.0,Unprovoked,USA,M,31,N
+1996.0,Unprovoked,USA,M,14,N
+1996.0,Unprovoked,NEW ZEALAND,M,23,N
+1996.0,Unprovoked,USA,M,19,N
+1996.0,Unprovoked,USA,M,5,N
+1996.0,Unprovoked,USA,M,28,N
+1996.0,Invalid,USA,F,28,N
+1996.0,Provoked,SOUTH AFRICA,M,29,N
+1996.0,Unprovoked,USA,M,19,N
+1996.0,Unprovoked,USA,M,36,N
+1996.0,Unprovoked,USA,M,21,N
+1996.0,Unprovoked,USA,F,8,N
+1996.0,Unprovoked,OKINAWA,M,52,Y
+1996.0,Unprovoked,USA,M,46,N
+1996.0,Unprovoked,USA,M,9,N
+1996.0,Unprovoked,USA,M,18,N
+1996.0,Unprovoked,USA,F,63,N
+1996.0,Unprovoked,BAHAMAS,M,24,N
+1996.0,Unprovoked,USA,F,24,N
+1996.0,Unprovoked,SOUTH AFRICA,M,17,N
+1996.0,Invalid,AUSTRALIA,M,45,Y
+1996.0,Unprovoked,USA,M,22,N
+1996.0,Unprovoked,SOUTH KOREA,M,33,Y
+1996.0,Unprovoked,USA,M,27,N
+1996.0,Unprovoked,AUSTRALIA,M,11,N
+1996.0,Unprovoked,AUSTRALIA,F,16,N
+1996.0,Unprovoked,AUSTRALIA,F,47,N
+1996.0,Unprovoked,AUSTRALIA,M,7,N
+1996.0,Unprovoked,AUSTRALIA,M,24,N
+1996.0,Provoked,USA,F,32,N
+1996.0,Unprovoked,AUSTRALIA,M,7,N
+1996.0,Provoked,USA,M,33,N
+1996.0,Unprovoked,AUSTRALIA,F,13,N
+1996.0,Unprovoked,USA,M,53,N
+1996.0,Unprovoked,REUNION,M,25,Y
+1995.0,Unprovoked,NEW ZEALAND,M,22,N
+1995.0,Unprovoked,USA,M,13,N
+1995.0,Unprovoked,USA,M,17,N
+1995.0,Unprovoked,AUSTRALIA,F,15,N
+1995.0,Unprovoked,USA,M,39,N
+1995.0,Unprovoked,USA,M,14,N
+1995.0,Unprovoked,USA,M,17,N
+1995.0,Unprovoked,USA,M,25,N
+1995.0,Unprovoked,USA,M,19,N
+1995.0,Unprovoked,USA,F,19,N
+1995.0,Unprovoked,USA,M,25,Y
+1995.0,Unprovoked,AUSTRALIA,M,29,Y
+1995.0,Unprovoked,USA,M,32,N
+1995.0,Invalid,USA,M,9,N
+1995.0,Unprovoked,USA,M,19,N
+1995.0,Unprovoked,USA,M,44,N
+1995.0,Unprovoked,USA,M,16,N
+1995.0,Unprovoked,USA,M,18,N
+1995.0,Unprovoked,USA,M,16,N
+1995.0,Unprovoked,USA,M,23,N
+1995.0,Unprovoked,USA,M,19,N
+1995.0,Unprovoked,TONGA,M,18,N
+1995.0,Unprovoked,USA,M,20,N
+1995.0,Invalid,USA,M,15,Y
+1995.0,Unprovoked,USA,M,20,N
+1995.0,Unprovoked,USA,F,14,N
+1995.0,Unprovoked,USA,M,12,N
+1995.0,Unprovoked,USA,M,18,N
+1995.0,Unprovoked,USA,M,18,N
+1995.0,Unprovoked,USA,M,12,N
+1995.0,Unprovoked,USA,F,7,N
+1995.0,Unprovoked,USA,M,47,N
+1995.0,Unprovoked,BRAZIL,M,18,Y
+1984.0,Unprovoked,SOUTH AFRICA,M,14,N
+1995.0,Unprovoked,USA,M,34,N
+1995.0,Provoked,USA,F,32,N
+1995.0,Unprovoked,USA,M,31,N
+1995.0,Unprovoked,USA,M,13,N
+1995.0,Unprovoked,USA,M,45,N
+1995.0,Unprovoked,USA,F,10,N
+1995.0,Unprovoked,USA,M,38,N
+1995.0,Unprovoked,HONG KONG,F,45,Y
+1995.0,Unprovoked,HONG KONG,M,29,Y
+1995.0,Unprovoked,USA,M,15,N
+1995.0,Unprovoked,FIJI,M,69,Y
+1995.0,Unprovoked,SOUTH KOREA,F,44,Y
+1995.0,Invalid,USA,M,12,N
+1995.0,Unprovoked,USA,M,20,N
+1995.0,Unprovoked,JAPAN,M,47,Y
+1995.0,Unprovoked,AUSTRALIA,M,35,N
+1995.0,Unprovoked,SOUTH AFRICA,M,22,N
+1995.0,Unprovoked,SOUTH AFRICA,M,14,Y
+1995.0,Unprovoked,BRAZIL,M,17,N
+1995.0,Invalid,SOUTH AFRICA,M,33,N
+1994.0,Unprovoked,SOUTH AFRICA,M,26,N
+1994.0,Invalid,AUSTRALIA,M,44,N
+1994.0,Unprovoked,USA,M,42,Y
+1994.0,Unprovoked,USA,F,34,N
+1994.0,Provoked,USA,F,9,N
+1994.0,Unprovoked,USA,M,16,N
+1994.0,Unprovoked,USA,F,30,N
+1994.0,Unprovoked,USA,M,43,N
+1994.0,Sea Disaster,USA,M,7      &    31,Y
+1994.0,Unprovoked,USA,F,12,N
+1994.0,Unprovoked,BRAZIL,M,15,N
+1994.0,Unprovoked,REUNION,M,24,Y
+1994.0,Unprovoked,SOUTH AFRICA,M,22,Y
+1994.0,Unprovoked,SOUTH AFRICA,M,31,N
+1994.0,Unprovoked,USA,M,15,N
+1994.0,Unprovoked,BAHAMAS,M,30,N
+1994.0,Unprovoked,USA,M,24,N
+1994.0,Unprovoked,USA,M,28,N
+1994.0,Unprovoked,USA,M,35,N
+1994.0,Unprovoked,USA,F,36,N
+1994.0,Unprovoked,USA,M,26,N
+1994.0,Unprovoked,USA,M,22,N
+1994.0,Invalid,USA,F,25,Y
+1994.0,Unprovoked,BAHAMAS,M,20?,N
+1994.0,Unprovoked,USA,M,71,N
+1994.0,Unprovoked,CHILE,F,19,N
+1994.0,Provoked,USA,M,33,N
+1994.0,Unprovoked,BRAZIL,M,25,N
+1994.0,Unprovoked,USA,M,23,N
+1994.0,Unprovoked,SOUTH AFRICA,M,15,N
+1994.0,Unprovoked,SOUTH AFRICA,M,44,N
+1994.0,Unprovoked,AUSTRALIA,M,23,N
+1994.0,Unprovoked,SOUTH AFRICA,M,33,N
+1993.0,Unprovoked,USA,M,30,N
+1993.0,Unprovoked,AUSTRALIA,M,27,Y
+1993.0,Unprovoked,USA,M,26,N
+1993.0,Unprovoked,USA,F,26,N
+1993.0,Boat,USA,F,34,N
+1993.0,Unprovoked,SOMALIA,M,21,Y
+1993.0,Unprovoked,SOUTH AFRICA,M,36,N
+1993.0,Unprovoked,EL SALVADOR,M,17,Y
+1993.0,Unprovoked,USA,M,19,N
+1993.0,Unprovoked,USA,M,16,N
+1993.0,Unprovoked,SPAIN,M,69,N
+1993.0,Unprovoked,BAHAMAS,M,51,N
+1993.0,Unprovoked,USA,F,19,N
+1993.0,Unprovoked,USA,M,39,N
+1993.0,Unprovoked,SOUTH AFRICA,M,28,N
+1993.0,Unprovoked,USA,F,12,N
+1993.0,Unprovoked,REUNION,M,16,N
+1993.0,Unprovoked,HONG KONG,M,61,Y
+1993.0,Unprovoked,MEXICO,F,42,Y
+1993.0,Unprovoked,USA,M,22,N
+1993.0,Unprovoked,AUSTRALIA,M,31,Y
+1993.0,Unprovoked,AUSTRALIA,F,34,Y
+1993.0,Unprovoked,HONG KONG,M,42,Y
+1993.0,Unprovoked,USA,F,60's,N
+1993.0,Invalid,AUSTRALIA,M,32,N
+1993.0,Unprovoked,USA,M,25,N
+1993.0,Unprovoked,USA,M,35,N
+1993.0,Unprovoked,USA,M,55,N
+1993.0,Provoked,AUSTRALIA,M,69,N
+1993.0,Unprovoked,BRAZIL,M,15,N
+1993.0,Unprovoked,AUSTRALIA,M,21,N
+1993.0,Boat,CARIBBEAN SEA,M,32 & 30,N
+1993.0,Unprovoked,USA,M,29,N
+1992.0,Unprovoked,USA,M,10,N
+1992.0,Unprovoked,USA,M,30,N
+1992.0,Unprovoked,USA,M,31,N
+1992.0,Unprovoked,USA,M,19,N
+1992.0,Unprovoked,USA,M,24,N
+1992.0,Boat,USA,M,46,N
+1992.0,Unprovoked,FIJI,M,30,N
+1992.0,Unprovoked,USA,M,40,N
+1992.0,Unprovoked,USA,M,17,N
+1992.0,Unprovoked,USA,M,18,Y
+1992.0,Unprovoked,USA,M,40,N
+1992.0,Unprovoked,USA,M,28,N
+1992.0,Unprovoked,AUSTRALIA,M,28,Y
+1992.0,Unprovoked,USA,M,20,N
+1992.0,Unprovoked,USA,F,18,N
+1992.0,Unprovoked,BAHAMAS,F,34,N
+1992.0,Unprovoked,AUSTRALIA,M,17,N
+1992.0,Unprovoked,USA,M,22,N
+1992.0,Provoked,USA,M,26,N
+1992.0,Unprovoked,USA,F,42,N
+1992.0,Unprovoked,REUNION,M,16,Y
+1992.0,Unprovoked,VANUATU,F,21,N
+1992.0,Invalid,USA,M,45,Y
+1992.0,Unprovoked,SOUTH AFRICA,M,35,N
+1992.0,Unprovoked,USA,F,36,N
+1992.0,Unprovoked,AUSTRALIA,M,17,N
+1992.0,Unprovoked,JAPAN,M,41,Y
+1992.0,Unprovoked,USA,M,21,N
+1992.0,Invalid,AUSTRALIA,M,19,N
+1992.0,Unprovoked,AUSTRALIA,M,19,N
+1992.0,Unprovoked,SOUTH AFRICA,M,19,N
+1992.0,Unprovoked,SOUTH AFRICA,M,36,N
+1992.0,Unprovoked,FIJI,M,33,Y
+1991.0,Unprovoked,USA,M,25,N
+1991.0,Unprovoked,USA,F,41,Y
+1991.0,Unprovoked,AUSTRALIA,M,14,N
+1991.0,Unprovoked,USA,M,21,N
+1991.0,Unprovoked,USA,M,32,N
+1991.0,Invalid,BAHAMAS,M,32,Y
+1991.0,Unprovoked,AUSTRALIA,M,19,Y
+1991.0,Provoked,AUSTRALIA,M,36,N
+1991.0,Unprovoked,USA,M,23,N
+1991.0,Unprovoked,USA,F,10,N
+1991.0,Boat,ITALY,F,40,N
+1991.0,Unprovoked,USA,M,39,N
+1991.0,Unprovoked,USA,M,42,N
+1991.0,Unprovoked,USA,M,22,N
+1991.0,Unprovoked,REUNION,M,30,N
+1991.0,Unprovoked,USA,M,32,N
+1991.0,Unprovoked,USA,M,13,N
+1991.0,Unprovoked,HONG KONG,M,22,Y
+1991.0,Unprovoked,USA,M,18,N
+1991.0,Unprovoked,USA,M,31,N
+1991.0,Unprovoked,HONG KONG,F,65,Y
+1991.0,Unprovoked,USA,M,23,N
+1991.0,Unprovoked,USA,M,22,N
+1991.0,Unprovoked,AUSTRALIA,M,18,N
+1991.0,Unprovoked,USA,M,38,N
+1991.0,Unprovoked,SOUTH AFRICA,M,20,N
+1991.0,Unprovoked,AUSTRALIA,M,35,N
+1991.0,Unprovoked,AUSTRALIA,M,22,N
+1990.0,Unprovoked,AUSTRALIA,M,26,N
+1990.0,Unprovoked,USA,M,24,N
+1990.0,Unprovoked,USA,M,50,N
+1990.0,Unprovoked,USA,M,18,N
+1990.0,Unprovoked,AUSTRALIA,M,26,N
+1990.0,Unprovoked,USA,M,25,N
+1990.0,Unprovoked,USA,M,43,N
+1990.0,Unprovoked,USA,M,19,N
+1990.0,Unprovoked,SOUTH AFRICA,M,26,N
+1990.0,Unprovoked,USA,M,49,N
+1990.0,Boat,USA,M,44,N
+1990.0,Invalid,USA,M,30,Y
+1990.0,Unprovoked,USA,M,22,N
+1990.0,Unprovoked,USA,M,18,N
+1990.0,Unprovoked,USA,F,53,N
+1990.0,Unprovoked,USA,M,17,N
+1990.0,Unprovoked,SOUTH AFRICA,F,21,Y
+1990.0,Unprovoked,BAHAMAS,M,38,N
+1990.0,Unprovoked,AUSTRALIA,F,30s,N
+1990.0,Unprovoked,AUSTRALIA,M,30s,N
+1990.0,Unprovoked,SOUTH AFRICA,M,22,N
+1990.0,Unprovoked,SOUTH AFRICA,M,23,N
+1990.0,Unprovoked,AUSTRALIA,M,31,N
+1990.0,Unprovoked,AUSTRALIA,M,37,Y
+1990.0,Unprovoked,AUSTRALIA,M,29,N
+1990.0,Unprovoked,FIJI,M,30,N
+1990.0,Unprovoked,USA,M,33,N
+1990.0,Unprovoked,USA,M,17,UNKNOWN
+1989.0,Unprovoked,AUSTRALIA,M,17,UNKNOWN
+1989.0,Invalid,AUSTRALIA,M,27,Y
+1989.0,Unprovoked,AUSTRALIA,M,32,N
+1989.0,Unprovoked,SOUTH AFRICA,M,29,Y
+1989.0,Unprovoked,AUSTRALIA,M,10,N
+1989.0,Unprovoked,AUSTRALIA,F,31,N
+1989.0,Unprovoked,AUSTRALIA,M,17,N
+1989.0,Unprovoked,USA,M,12,N
+1989.0,Invalid,USA,M,49,Y
+1989.0,Unprovoked,SOUTH AFRICA,M,29,N
+1989.0,Provoked,USA,M,51,N
+1989.0,Unprovoked,USA,M,38,N
+1989.0,Unprovoked,USA,M,31,N
+1989.0,Provoked,USA,M,46,N
+1989.0,Provoked,AUSTRALIA,M,30,N
+1989.0,Unprovoked,USA,M,21,N
+1989.0,Unprovoked,SOUTH AFRICA,M,21,N
+1989.0,Unprovoked,AUSTRALIA,M,17,N
+1989.0,Unprovoked,BAHAMAS,F,31,N
+1989.0,Provoked,AUSTRALIA,M,41,N
+1989.0,Unprovoked,SOUTH AFRICA,M,34,N
+1989.0,Unprovoked,USA,M,16,N
+1989.0,Unprovoked,USA,F,9,N
+1989.0,Unprovoked,USA,M,45,N
+1989.0,Unprovoked,SOUTH AFRICA,M,16,N
+1989.0,Unprovoked,SOUTH AFRICA,M,28,N
+1989.0,Unprovoked,USA,M,19,N
+1989.0,Unprovoked,AUSTRALIA,M,27,Y
+1989.0,Unprovoked,SOUTH AFRICA,M,26,N
+1989.0,Unprovoked,ITALY,M,47,Y
+1989.0,Invalid,USA,M,24,Y
+1989.0,Unprovoked,USA,F,24,Y
+1989.0,Unprovoked,USA,M,10,N
+1989.0,Unprovoked,SOUTH AFRICA,M,19,N
+1989.0,Unprovoked,AUSTRALIA,M,17,N
+1988.0,Sea Disaster,AUSTRALIA,M,17,Y
+1988.0,Sea Disaster,AUSTRALIA,M,62,Y
+1988.0,Unprovoked,USA,M,21,N
+1988.0,Unprovoked,AUSTRALIA,M,38,N
+1988.0,Unprovoked,USA,M,15,N
+1988.0,Unprovoked,USA,M,30,N
+1988.0,Unprovoked,USA,M,23,N
+1988.0,Unprovoked,AUSTRALIA,M,15,N
+1988.0,Unprovoked,USA,F,23,N
+1988.0,Unprovoked,USA,M,21,N
+1988.0,Unprovoked,USA,M,38,Y
+1988.0,Unprovoked,ITALY,M,16,N
+1988.0,Unprovoked,USA,M,27,N
+1988.0,Unprovoked,BAHAMAS,M,28,N
+1988.0,Unprovoked,BAHAMAS,M,35,N
+1988.0,Unprovoked,USA,F,15,N
+1988.0,Unprovoked,USA,M,37,N
+1988.0,Unprovoked,SOUTH AFRICA,M,36,N
+1988.0,Unprovoked,USA,M,42,N
+1988.0,Unprovoked,USA,M,37,N
+1988.0,Unprovoked,USA,M,12,N
+1988.0,Unprovoked,USA,M,25,N
+1988.0,Unprovoked,SOUTH KOREA,F,38,Y
+1988.0,Unprovoked,USA,M,31,N
+1988.0,Unprovoked,USA,M,29,N
+1988.0,Unprovoked,USA,M,24,N
+1988.0,Unprovoked,USA,M,14,N
+1988.0,Unprovoked,USA,F,30,N
+1988.0,Unprovoked,SOUTH AFRICA,M,17,N
+1988.0,Unprovoked,SOUTH AFRICA,M,20,N
+1988.0,Unprovoked,SOUTH AFRICA,F,15,N
+1988.0,Unprovoked,Fiji,M,22,N
+1988.0,Invalid,SOUTH AFRICA,M,22,N
+1988.0,Provoked,SOUTH AFRICA,M,33,N
+1988.0,Unprovoked,AUSTRALIA,M,12,N
+1987.0,Unprovoked,USA,M,16,N
+1987.0,Invalid,AUSTRALIA,F,16 to 18,Y
+1987.0,Unprovoked,USA,M,15,N
+1987.0,Unprovoked,USA,M,20,N
+1987.0,Invalid,SOUTH AFRICA,M,14,N
+1987.0,Unprovoked,SOUTH AFRICA,M,21,N
+1987.0,Unprovoked,AUSTRALIA,M,47,Y
+1987.0,Unprovoked,SOUTH AFRICA,M,24,N
+1987.0,Unprovoked,USA,M,12,N
+1987.0,Unprovoked,USA,M,40,N
+1987.0,Unprovoked,USA,M,27,N
+1987.0,Unprovoked,USA,F,32,N
+1987.0,Unprovoked,USA,F,16,N
+1987.0,Unprovoked,BAHAMAS,M,35,N
+1987.0,Unprovoked,USA,M,12,N
+1987.0,Provoked,AUSTRALIA,M,34,N
+1987.0,Unprovoked,USA,F,16,N
+1987.0,Unprovoked,VANUATU,M,8,Y
+1987.0,Unprovoked,AUSTRALIA,M,18,N
+1987.0,Unprovoked,SOUTH AFRICA,M,30,N
+1987.0,Unprovoked,AUSTRALIA,M,37,N
+1986.0,Unprovoked,SOUTH AFRICA,M,21,Y
+1986.0,Unprovoked,USA,M,40,N
+1986.0,Unprovoked,BAHAMAS,M,37,N
+1986.0,Unprovoked,USA,M,27,N
+1986.0,Invalid,SOUTH AFRICA,M,22,N
+1986.0,Unprovoked,USA,M,17,N
+1986.0,Unprovoked,USA,M,26,N
+1986.0,Unprovoked,USA,M,23,N
+1986.0,Unprovoked,USA,F,6,N
+1986.0,Unprovoked,SOUTH AFRICA,M,32,N
+1986.0,Unprovoked,USA,M,28,N
+1986.0,Invalid,SOUTH AFRICA,M,35,N
+1986.0,Unprovoked,USA,M,8,N
+1986.0,Unprovoked,SOUTH AFRICA,M,26,N
+1986.0,Unprovoked,SOUTH AFRICA,M,26,N
+1986.0,Unprovoked,SOUTH AFRICA,M,23,N
+1986.0,Unprovoked,SOUTH AFRICA,M,21,N
+1986.0,Unprovoked,SOUTH AFRICA,M,46,N
+1986.0,Unprovoked,SOUTH AFRICA,M,29,N
+1986.0,Unprovoked,AUSTRALIA,M,29,N
+1986.0,Unprovoked,USA,M,22,N
+1986.0,Unprovoked,USA,M,16,N
+1985.0,Provoked,USA,M,24,N
+1985.0,Unprovoked,SOUTH AFRICA,M,22,N
+1985.0,Unprovoked,USA,M,46,N
+1985.0,Unprovoked,USA,M,33,N
+1985.0,Unprovoked,USA,M,24,N
+1985.0,Invalid,SOUTH AFRICA,M,21,Y
+1985.0,Invalid,USA,M,17,N
+1985.0,Unprovoked,USA,M,87,N
+1985.0,Invalid,USA,M,11,N
+1985.0,Invalid,USA,M,67,Y
+1985.0,Unprovoked,USA,F,13,N
+1985.0,Unprovoked,USA,M,15,N
+1985.0,Unprovoked,USA,F,10,N
+1985.0,Unprovoked,ITALY,M,13,N
+1985.0,Provoked,SOUTH AFRICA,M,39,N
+1985.0,Unprovoked,USA,M,25,N
+1985.0,Unprovoked,AUSTRALIA,F,33,Y
+1985.0,Unprovoked,USA,M,29,N
+1985.0,Unprovoked,USA,M,16,N
+1985.0,Unprovoked,SOUTH AFRICA,M,15,N
+1985.0,Unprovoked,SOUTH AFRICA,M,18,N
+1985.0,Unprovoked,SOUTH AFRICA,M,34,N
+1985.0,Provoked,SOUTH AFRICA,M,20,N
+1984.0,Unprovoked,AUSTRALIA,M,16,Y
+1984.0,Unprovoked,USA,M,13,N
+1984.0,Provoked,USA,M,29,N
+1984.0,Invalid,USA,M,22,Y
+1984.0,Unprovoked,USA,F,23,N
+1984.0,Invalid,USA,F,77,N
+1984.0,Unprovoked,USA,M,15,N
+1984.0,Unprovoked,USA,M,25,N
+1984.0,Unprovoked,USA,M,17,N
+1984.0,Unprovoked,USA,M,Elderly,N
+1984.0,Unprovoked,USA,M,16,N
+1984.0,Unprovoked,USA,M,28,Y
+1984.0,Invalid,USA,F,31,Y
+1984.0,Unprovoked,USA,F,13,N
+1984.0,Unprovoked,USA,F,18,N
+1984.0,Invalid,SOUTH AFRICA,M,21,Y
+1984.0,Unprovoked,USA,M,30,N
+1984.0,Unprovoked,SOUTH AFRICA,M,27,N
+1984.0,Unprovoked,USA,F,13,N
+1984.0,Unprovoked,VANUATU,M,20s,Y
+1984.0,Unprovoked,SOUTH AFRICA,M,28,N
+1984.0,Provoked,SOUTH AFRICA,M,33,N
+1984.0,Unprovoked,AUSTRALIA,M,27,N
+1984.0,Unprovoked,SOUTH AFRICA,M,14,N
+1984.0,Unprovoked,SOUTH AFRICA,F,14,Y
+1983.0,Invalid,GREECE,M,36,Y
+1983.0,Unprovoked,USA,M,17,N
+1983.0,Unprovoked,AUSTRALIA,M,48,N
+1983.0,Unprovoked,SOUTH AFRICA,M,16,N
+1983.0,Unprovoked,SOUTH AFRICA,M,47,N
+1983.0,Unprovoked,USA,M,15,N
+1983.0,Unprovoked,USA,M,16,N
+1983.0,Unprovoked,USA,M,20,N
+1983.0,Unprovoked,USA,M,15,N
+1983.0,Unprovoked,SOUTH AFRICA,M,29,N
+1983.0,Unprovoked,USA,F,14,N
+1983.0,Provoked,USA,M,14,N
+1983.0,Unprovoked,USA,F,22,N
+1983.0,Sea Disaster,AUSTRALIA,F,21,Y
+1983.0,Sea Disaster,AUSTRALIA,M,24,Y
+1983.0,Sea Disaster,AUSTRALIA,M,28,N
+1983.0,Unprovoked,USA,F,39,N
+1983.0,Unprovoked,BAHAMAS,M,13,N
+1983.0,Unprovoked,USA,M,42,N
+1983.0,Unprovoked,BAHAMAS,M,15,Y
+1983.0,Unprovoked,USA,M,21,N
+1983.0,Unprovoked,BAHAMAS,M,30,N
+1983.0,Unprovoked,USA,M,21,N
+1983.0,Unprovoked,USA,M,15,N
+1983.0,Unprovoked,USA,M,22,N
+1983.0,Unprovoked,SOUTH AFRICA,M,27,N
+1983.0,Unprovoked,USA,M,16,N
+1983.0,Unprovoked,SOUTH AFRICA,M,17,N
+1983.0,Unprovoked,SOUTH AFRICA,M,16,N
+1983.0,Provoked,USA,M,43,N
+1983.0,Unprovoked,SOUTH AFRICA,M,22,N
+1983.0,Unprovoked,SOUTH AFRICA,M,32,N
+1982.0,Unprovoked,USA,M,26,N
+1982.0,Unprovoked,SOUTH AFRICA,M,16,N
+1982.0,Unprovoked,SOUTH AFRICA,M,16,N
+1982.0,Unprovoked,USA,M,20,N
+1982.0,Unprovoked,USA,M,36,N
+1982.0,Unprovoked,USA,M,28,N
+1982.0,Invalid,USA,M,mid-20s,Y
+1982.0,Invalid,USA,M,17,N
+1982.0,Unprovoked,SOUTH AFRICA,F,18,N
+1982.0,Invalid,SOUTH AFRICA,M,20,N
+1982.0,Unprovoked,SOUTH AFRICA,M,38,N
+1982.0,Unprovoked,USA,M,26,N
+1982.0,Unprovoked,USA,M,17,N
+1982.0,Invalid,USA,M,43,N
+1982.0,Unprovoked,USA,F,19,N
+1982.0,Unprovoked,SOUTH AFRICA,M,27,Y
+1982.0,Unprovoked,USA,M,20,N
+1982.0,Unprovoked,BAHAMAS,M,19,N
+1982.0,Unprovoked,USA,F,8,N
+1982.0,Invalid,USA,F,Ca. 33,Y
+1982.0,Unprovoked,USA,M,16,N
+1982.0,Unprovoked,AUSTRALIA,M,20,Y
+1982.0,Unprovoked,AUSTRALIA,M,32,Y
+1982.0,Unprovoked,USA,M,18,N
+1982.0,Unprovoked,USA,F,75,Y
+1982.0,Unprovoked,USA,M,29,Y
+1982.0,Unprovoked,SOUTH AFRICA,M,20,N
+1981.0,Unprovoked,USA,M,24,Y
+1981.0,Unprovoked,USA,M,59,N
+1981.0,Unprovoked,USA,M,19,N
+1981.0,Unprovoked,USA,M,17,N
+1981.0,Unprovoked,USA,M,24,N
+1981.0,Unprovoked,USA,M,28,N
+1981.0,Unprovoked,USA,M,26,Y
+1981.0,Unprovoked,USA,M,25,N
+1981.0,Unprovoked,USA,M,24,N
+1981.0,Unprovoked,USA,M,15,N
+1981.0,Provoked,USA,M,19,N
+1981.0,Unprovoked,USA,F,19,Y
+1981.0,Unprovoked,BAHAMAS,M,53,N
+1981.0,Unprovoked,USA,F,16,N
+1981.0,Unprovoked,SOUTH AFRICA,M,32,N
+1981.0,Unprovoked,SOUTH KOREA,F,27,Y
+1981.0,Unprovoked,SOUTH AFRICA,M,27,N
+1981.0,Unprovoked,USA,M,32,N
+1981.0,Unprovoked,SOUTH AFRICA,M,19,N
+1981.0,Unprovoked,SOUTH AFRICA,M,24,N
+1981.0,Unprovoked,USA,M,19,N
+1981.0,Unprovoked,USA,M,24,N
+1981.0,Unprovoked,SOUTH AFRICA,M,30,N
+1981.0,Unprovoked,USA,M,15,N
+1981.0,Unprovoked,USA,M,25,N
+1981.0,Invalid,SOUTH AFRICA,M,23,Y
+1981.0,Unprovoked,AUSTRALIA,M,27,N
+1980.0,Unprovoked,SOUTH AFRICA,M,25,N
+1980.0,Unprovoked,REUNION,M,22,N
+1980.0,Unprovoked,BRAZIL,M,16,Y
+1980.0,Unprovoked,USA,M,29,N
+1980.0,Unprovoked,USA,M,19,N
+1980.0,Unprovoked,MEXICO,M,22,Y
+1980.0,Unprovoked,USA,F,10,N
+1980.0,Unprovoked,USA,M,15,N
+1980.0,Unprovoked,USA,F,22,N
+1980.0,Provoked,USA,F,44,N
+1980.0,Unprovoked,SOUTH AFRICA,M,22,N
+1980.0,Unprovoked,MEXICO,F,13,N
+1980.0,Unprovoked,SOUTH AFRICA,M,52,Y
+1980.0,Provoked,SOUTH AFRICA,M,61,N
+1980.0,Unprovoked,SOUTH AFRICA,M,24,N
+1980.0,Unprovoked,KENYA,M,29,N
+1980.0,Provoked,SOUTH AFRICA,M,29,N
+1980.0,Unprovoked,SOUTH AFRICA,M,25,N
+1980.0,Provoked,NORTH ATLANTIC OCEAN,M,34,N
+1980.0,Invalid,SOUTH AFRICA,M,20,N
+1980.0,Unprovoked,TONGA,M,20s,N
+1979.0,Unprovoked,SOUTH AFRICA,M,18,N
+1979.0,Invalid,PORTUGAL,M,19,Y
+1979.0,Unprovoked,SOUTH CHINA SEA,M,32,N
+1979.0,Unprovoked,USA,M,20,N
+1979.0,Unprovoked,AUSTRALIA,M,18,N
+1979.0,Unprovoked,HONG KONG,M,21,Y
+1979.0,Unprovoked,HONG KONG,M,16,Y
+1979.0,Unprovoked,USA,M,49,N
+1979.0,Sea Disaster,USA,M,56,N
+1979.0,Invalid,USA,M,36,Y
+1979.0,Provoked,SOUTH AFRICA,M,25,N
+1979.0,Unprovoked,USA,M,24,N
+1979.0,Unprovoked,USA,M,8,N
+1979.0,Unprovoked,USA,M,27,N
+1979.0,Unprovoked,SOUTH AFRICA,M,19,N
+1978.0,Unprovoked,AUSTRALIA,M, ,N
+1978.0,Unprovoked,SOUTH AFRICA,M,23,Y
+1978.0,Unprovoked,USA,M,17,N
+1978.0,Unprovoked,SOUTH AFRICA,M,27,N
+1978.0,Unprovoked,AUSTRALIA,M,34,N
+1978.0,Unprovoked,USA,M,27,N
+1978.0,Sea Disaster,USA,M,39,N
+1978.0,Provoked,USA,M,27,N
+1978.0,Unprovoked,USA,M,20,N
+1978.0,Unprovoked,USA,M,17,N
+1978.0,Unprovoked,MARSHALL ISLANDS,M,25,N
+1978.0,Unprovoked,MARSHALL ISLANDS,M,23,N
+1978.0,Unprovoked,SOUTH AFRICA,M,17,N
+1977.0,Sea Disaster,USA,M,49,N
+1977.0,Unprovoked,USA,M,27,N
+1977.0,Unprovoked,SOUTH AFRICA,M,18,N
+1977.0,Unprovoked,SOUTH AFRICA,M,25,N
+1977.0,Unprovoked,AUSTRALIA,M,17,N
+1977.0,Unprovoked,AUSTRALIA,M,25,Y
+1977.0,Unprovoked,USA,M,20,N
+1977.0,Invalid,USA,M,17,N
+1977.0,Sea Disaster,USA,M,21,N
+1977.0,Provoked,USA,M,27,N
+1977.0,Unprovoked,USA,M,25,N
+1977.0,Unprovoked,SOUTH AFRICA,M,31,N
+1977.0,Sea Disaster,AUSTRALIA,M,32,N
+1977.0,Sea Disaster,AUSTRALIA,M,74,Y
+1977.0,Sea Disaster,AUSTRALIA,M,45,Y
+1977.0,Unprovoked,AUSTRALIA,M,24,N
+1976.0,Unprovoked,USA,M,29,N
+1976.0,Unprovoked,SOUTH AFRICA,M,19,N
+1976.0,Unprovoked,USA,M,19,N
+1976.0,Invalid,SOUTH AFRICA,M,17,N
+1976.0,Unprovoked,USA,M,25,N
+1976.0,Unprovoked,SOUTH AFRICA,M,20,N
+1976.0,Unprovoked,AUSTRALIA,M,27,N
+1976.0,Unprovoked,USA,M,16,Y
+1976.0,Unprovoked,USA,M,15,N
+1976.0,Unprovoked,USA,M,23,N
+1976.0,Unprovoked,USA,M,19,N
+1976.0,Unprovoked,USA,M,24,N
+1976.0,Unprovoked,USA,M,10,N
+1976.0,Unprovoked,USA,M,18,Y
+1976.0,Unprovoked,USA,M,23,N
+1976.0,Unprovoked,USA,M,17,N
+1976.0,Provoked,ITALY,M,46,N
+1976.0,Unprovoked,USA,M,21 or 26,N
+1976.0,Unprovoked,USA,M,25,N
+1975.0,Unprovoked,USA,M,27,N
+1975.0,Provoked,AUSTRALIA,M,35,N
+1975.0,Unprovoked,AUSTRALIA,M,20,N
+1975.0,Unprovoked,SOUTH AFRICA,M,33,N
+1975.0,Unprovoked,USA,M,18,N
+1975.0,Unprovoked,AUSTRALIA,M,20,N
+1975.0,Unprovoked,SOUTH AFRICA,M,21,N
+1975.0,Unprovoked,SOUTH AFRICA,M,19,N
+1975.0,Unprovoked,USA,M,20,N
+1975.0,Unprovoked,USA,M,44,N
+1975.0,Unprovoked,HONG KONG,M,24,N
+1975.0,Sea Disaster,USA,F,62,Y
+1975.0,Unprovoked,AUSTRALIA,M,37,Y
+1975.0,Unprovoked,USA,M,24,N
+1975.0,Unprovoked,AUSTRALIA,M,21,N
+1975.0,Unprovoked,USA,M,23,N
+1975.0,Unprovoked,USA,M,34,N
+1975.0,Unprovoked,USA,F,14,N
+1975.0,Provoked,AUSTRALIA,M,29,N
+1975.0,Unprovoked,USA,M,16,N
+1975.0,Unprovoked,USA,M,18,N
+1975.0,Unprovoked,USA,F,15,N
+1975.0,Unprovoked,USA,M,27,N
+1975.0,Unprovoked,USA,M,20,N
+1975.0,Unprovoked,USA,M,17,N
+1975.0,Unprovoked,USA,F,10,N
+1975.0,Invalid,ITALY,M,37,N
+1975.0,Unprovoked,USA,M,14,N
+1975.0,Unprovoked,SOUTH AFRICA,M,16,N
+1975.0,Unprovoked,AUSTRALIA,M,12,Y
+1975.0,Unprovoked,AUSTRALIA,M,45,N
+1975.0,Provoked,SOUTH AFRICA,M,12,N
+1975.0,Unprovoked,AUSTRALIA,M,17,Y
+1975.0,Unprovoked,BERMUDA,M,25,N
+1974.0,Unprovoked,USA,M,24,N
+1974.0,Unprovoked,USA,M,17,N
+1974.0,Unprovoked,USA,M,29,N
+1974.0,Unprovoked,ISRAEL,F,20,N
+1974.0,Unprovoked,USA,M,41,N
+1974.0,Unprovoked,USA,M,48,N
+1974.0,Sea Disaster,AUSTRALIA,M,30,N
+1974.0,Unprovoked,USA,M,24,N
+1974.0,Unprovoked,HONG KONG,M,22,N
+1974.0,Unprovoked,HONG KONG,M,19,N
+1974.0,Unprovoked,HONG KONG,M,18,N
+1974.0,Unprovoked,CROATIA,M,21,Y
+1974.0,Unprovoked,USA,M,36,N
+1974.0,Unprovoked,USA,M,17,Y
+1974.0,Sea Disaster,USA,M,10,Y
+1974.0,Unprovoked,USA,F,61,N
+1974.0,Unprovoked,USA,M,45,N
+1974.0,Unprovoked,SOUTH AFRICA,M,22,N
+1974.0,Unprovoked,SOUTH AFRICA,M,19,N
+1974.0,Unprovoked,USA,F,11,N
+1974.0,Unprovoked,SOUTH AFRICA,M,17,N
+1974.0,Unprovoked,SOUTH AFRICA,M,21,N
+1974.0,Unprovoked,SOUTH AFRICA,M,14,N
+1974.0,Unprovoked,SOUTH AFRICA,M,19,N
+1974.0,Unprovoked,SOUTH AFRICA,M,42,N
+1974.0,Unprovoked,AUSTRALIA,M,26,Y
+1974.0,Unprovoked,SOUTH AFRICA,M,33,N
+1974.0,Unprovoked,MOZAMBIQUE,M,32,Y
+1973.0,Unprovoked,MOZAMBIQUE,M,41,N
+1973.0,Unprovoked,MOZAMBIQUE,M,20,Y
+1973.0,Unprovoked,PHILIPPINES,M,19,Y
+1973.0,Unprovoked,MEXICO,M,20s,Y
+1973.0,Unprovoked,USA,M,13,N
+1973.0,Unprovoked,BAHAMAS,M,11,N
+1973.0,Unprovoked,HONG KONG,M,20,Y
+1973.0,Unprovoked,MEXICO,M,37,Y
+1973.0,Unprovoked,AUSTRALIA,M,16,N
+1973.0,Unprovoked,USA,M,17,N
+1973.0,Unprovoked,MEXICO,M,45,Y
+1973.0,Unprovoked,MOZAMBIQUE,M,28,Y
+1973.0,Unprovoked,SOUTH AFRICA,M,26,N
+1973.0,Unprovoked,SOUTH AFRICA,M,13,N
+1972.0,Unprovoked,SOUTH AFRICA,M,29,N
+1972.0,Unprovoked,MOZAMBIQUE,M,25,N
+1972.0,Unprovoked,MEXICO,M,17,Y
+1972.0,Unprovoked,AUSTRALIA,M,24,N
+1972.0,Unprovoked,AUSTRALIA,M,19,N
+1972.0,Unprovoked,USA,M,17,N
+1972.0,Unprovoked,NEW ZEALAND,M,17,N
+1972.0,Invalid,MOZAMBIQUE,F,20,N
+1972.0,Unprovoked,USA,M,15,N
+1972.0,Unprovoked,AUSTRALIA,M,45,N
+1972.0,Unprovoked,USA,M,22,N
+1972.0,Unprovoked,USA,M,32,N
+1972.0,Unprovoked,FRENCH POLYNESIA,M,27,N
+1972.0,Unprovoked,WESTERN SAMOA,M,25,Y
+1972.0,Unprovoked,MOZAMBIQUE,M,19,Y
+1972.0,Provoked,PACIFIC OCEAN ,M,33,N
+1972.0,Unprovoked,AUSTRALIA,M,18,N
+1972.0,Unprovoked,SOUTH AFRICA,M,20,Y
+1972.0,Unprovoked,SOUTH AFRICA,F,30,N
+1972.0,Unprovoked,MOZAMBIQUE,M,24,N
+1971.0,Unprovoked,SOUTH AFRICA,F,16,N
+1971.0,Unprovoked,AUSTRALIA,M,20,Y
+1971.0,Unprovoked,HONG KONG,M,20,N
+1971.0,Unprovoked,USA,M,18,N
+1971.0,Unprovoked,SOUTH AFRICA,M,25,N
+1971.0,Unprovoked,USA,M,30,N
+1971.0,Unprovoked,CROATIA,M,34,Y
+1971.0,Unprovoked,AUSTRALIA,M,51,Y
+1971.0,Provoked,AUSTRALIA,M,26,N
+1971.0,Unprovoked,USA,M,8,N
+1971.0,Unprovoked,SOUTH AFRICA,M,21,N
+1971.0,Unprovoked,BRITISH ISLES,M,32,N
+1971.0,Unprovoked,KENYA,M,16,N
+1971.0,Unprovoked,SOUTH AFRICA,M,>50,Y
+1971.0,Unprovoked,MEXICO,M,19,Y
+1971.0,Unprovoked,VENEZUELA,M,14,Y
+1971.0,Unprovoked,VENEZUELA,M,66,Y
+1971.0,Unprovoked,NEW ZEALAND,M,16,N
+1971.0,Unprovoked,AUSTRALIA,M,15,N
+1970.0,Unprovoked,MOZAMBIQUE,M,18,Y
+1970.0,Unprovoked,MOZAMBIQUE,M,18 to 22,Y
+1970.0,Sea Disaster,USA,M,41,N
+1970.0,Unprovoked,MICRONESIA,M,43,N
+1970.0,Provoked,PALAU,M,20,N
+1970.0,Unprovoked,USA,M,18,N
+1970.0,Provoked,AUSTRALIA,M,20,N
+1970.0,Provoked,USA,M,13,N
+1970.0,Provoked,SOUTH AFRICA,M,25,N
+1970.0,Unprovoked,GRENADA,M,16,Y
+1970.0,Unprovoked,GRENADA,M,18,Y
+1970.0,Unprovoked,GRENADA,M,14,Y
+1970.0,Unprovoked,USA,M,19,N
+1970.0,Unprovoked,MOZAMBIQUE,M,14,N
+1970.0,Unprovoked,MOZAMBIQUE,M,16,N
+1970.0,Unprovoked,MOZAMBIQUE,M,12,N
+1970.0,Unprovoked,MOZAMBIQUE,M,10,N
+1970.0,Unprovoked,MEXICO,M,22,N
+1970.0,Unprovoked,PAPUA NEW GUINEA,M,15,N
+1970.0,Unprovoked,IRAQ,F,28,N
+1970.0,Unprovoked,IRAQ,F,25,N
+1970.0,Unprovoked,IRAQ,M,35,Y
+1970.0,Unprovoked,IRAQ,M,35,N
+1969.0,Unprovoked,AUSTRALIA,M,15,N
+1969.0,Provoked,AUSTRALIA,M,27,N
+1969.0,Unprovoked,USA,M,53,N
+1969.0,Provoked,USA,M,28,N
+1969.0,Unprovoked,USA,M,15,N
+1969.0,Unprovoked,USA,M,13,N
+1969.0,Provoked,USA,M,13,N
+1969.0,Unprovoked,USA,M,22,UNKNOWN
+1969.0,Unprovoked,JAMAICA,M,27,N
+1969.0,Unprovoked,USA,M,8,N
+1969.0,Provoked,USA,M,23,N
+1969.0,Unprovoked,DOMINICAN REPUBLIC,M,18,UNKNOWN
+1969.0,Provoked,USA,M,adult,N
+1969.0,Provoked,AUSTRALIA,M,65,N
+1969.0,Unprovoked,USA,M,16,N
+1969.0,Provoked,AUSTRALIA,M,49,N
+1969.0,Invalid,AUSTRALIA,M,52,UNKNOWN
+1969.0,Unprovoked,AUSTRALIA,M,21,N
+1968.0,Provoked,AUSTRALIA,M,27,N
+1968.0,Unprovoked,NEW ZEALAND,M,17,N
+1968.0,Unprovoked,SOUTH AFRICA,M,28,N
+1968.0,Invalid,SOUTH AFRICA,M,30,N
+1968.0,Boat,SOUTH AFRICA,M,22,N
+1968.0,Provoked,AUSTRALIA,M,16,N
+1968.0,Unprovoked,NEW ZEALAND,M,24,Y
+1968.0,Unprovoked,USA,M,15,N
+1968.0,Unprovoked,FRENCH POLYNESIA,M,12,N
+1968.0,Unprovoked,COLUMBIA,M,18,N
+1968.0,Unprovoked,USA,M,25,N
+1968.0,Unprovoked,USA,M,33,N
+1968.0,Unprovoked,USA,M,33,N
+1968.0,Invalid,MEXICO,M,43,N
+1968.0,Unprovoked,BAHAMAS,M,17,N
+1968.0,Unprovoked,USA,M,17,N
+1968.0,Unprovoked,PAPUA NEW GUINEA,M,17,N
+1968.0,Invalid,USA,M,63,N
+1968.0,Unprovoked,USA,M,10,N
+1968.0,Unprovoked,AUSTRALIA,M,21,N
+1968.0,Unprovoked,PAPUA NEW GUINEA,M,7,Y
+1968.0,Provoked,AUSTRALIA,M,47,N
+1968.0,Unprovoked,SOUTH AFRICA,M,35,N
+1968.0,Unprovoked,USA,M,20,N
+1968.0,Invalid,USA,M,28,N
+1968.0,Unprovoked,USA,M,17,N
+1968.0,Unprovoked,AUSTRALIA,F,14,N
+1968.0,Unprovoked,AUSTRALIA,M,26,N
+1967.0,Unprovoked,SOUTH AFRICA,M,22,N
+1967.0,Invalid,PAPUA NEW GUINEA,M,32,N
+1967.0,Unprovoked,FIJI,M,27,N
+1967.0,Unprovoked,AUSTRALIA,M,59,Y
+1967.0,Provoked,AUSTRALIA,M,15,N
+1967.0,Unprovoked,AUSTRALIA,M,18,N
+1967.0,Provoked,FIJI,M,21,N
+1967.0,Unprovoked,USA,M,19,N
+1967.0,Unprovoked,TONGA,M,17,N
+1967.0,Unprovoked,PAPUA NEW GUINEA,M,23,Y
+1967.0,Provoked,USA,M,24,N
+1967.0,Unprovoked,JAPAN,M,19,Y
+1967.0,Unprovoked,AUSTRALIA,M,23,Y
+1967.0,Unprovoked,BERMUDA,F,19,N
+1967.0,Invalid,AUSTRALIA,M,? & 19,Y
+1967.0,Unprovoked,USA,M,15,N
+1967.0,Unprovoked,BAHAMAS,M,41,N
+1967.0,Unprovoked,USA,M,20,N
+1967.0,Unprovoked,TURKEY,M,36,Y
+1967.0,Invalid,USA,M,18,N
+1967.0,Provoked,USA,M,26,N
+1967.0,Provoked,AUSTRALIA,M,30,N
+1967.0,Provoked,AUSTRALIA,M,22,N
+1967.0,Provoked,UNITED KINGDOM,M,60,N
+1967.0,Provoked,NEW ZEALAND,M,21,N
+1967.0,Unprovoked,SOUTH AFRICA,M,32,N
+1967.0,Provoked,AUSTRALIA,M,36,N
+1967.0,Unprovoked,NEW ZEALAND,M,21,Y
+1967.0,Unprovoked,PAPUA NEW GUINEA,M,14,N
+1967.0,Unprovoked,MOZAMBIQUE,M,31,N
+1967.0,Provoked,AUSTRALIA,M,15,N
+1966.0,Unprovoked,AUSTRALIA,M,30,N
+1966.0,Provoked,AUSTRALIA,M,29,N
+1966.0,Unprovoked,AUSTRALIA,M,19,N
+1966.0,Unprovoked,SINGAPORE,M,39,N
+1966.0,Unprovoked,AUSTRALIA,M,29,N
+1966.0,Unprovoked,PAPUA NEW GUINEA,F,9 months,Y
+1966.0,Unprovoked,PAPUA NEW GUINEA,F,13,Y
+1966.0,Unprovoked,PAPUA NEW GUINEA,F,8,Y
+1966.0,Unprovoked,AUSTRALIA,M,32,N
+1966.0,Provoked,USA,M,20,N
+1966.0,Unprovoked,AUSTRALIA,M,43,N
+1966.0,Provoked,USA,M,14,N
+1966.0,Unprovoked,BAHAMAS,F,18,N
+1966.0,Unprovoked,NEW BRITAIN,F,13,Y
+1966.0,Unprovoked,NEW BRITAIN,F,9,Y
+1966.0,Unprovoked,CROATIA,M,33,Y
+1966.0,Unprovoked,ITALY,M,21,N
+1966.0,Invalid,USA,M,26,N
+1966.0,Unprovoked,USA,M,8,N
+1966.0,Unprovoked,USA,M,16,N
+1966.0,Provoked,USA,M,34,N
+1966.0,Unprovoked,USA,M,14,N
+1966.0,Unprovoked,TAIWAN,M,20,Y
+1966.0,Unprovoked,PAPUA NEW GUINEA,F,25,Y
+1966.0,Invalid,USA,M,46,N
+1966.0,Provoked,USA,M,15,N
+1966.0,Provoked,USA,M,18,N
+1966.0,Unprovoked,USA,M,18,N
+1966.0,Sea Disaster,AUSTRALIA,M,40,Y
+1966.0,Sea Disaster,AUSTRALIA,M,38,Y
+1966.0,Invalid,USA,M,24,N
+1966.0,Unprovoked,USA,M,25,N
+1966.0,Unprovoked,AUSTRALIA,M,13,N
+1966.0,Provoked,SOUTH AFRICA,M,33,N
+1966.0,Unprovoked,USA,M,29,N
+1966.0,Unprovoked,AUSTRALIA,M,30,N
+1966.0,Unprovoked,SOUTH AFRICA,M,16,N
+1966.0,Unprovoked,AUSTRALIA,M,43,N
+1966.0,Unprovoked,SOUTH AFRICA,M,15,N
+1966.0,Unprovoked,NEW ZEALAND,F,15,Y
+1966.0,Unprovoked,USA,M,35,N
+1966.0,Invalid,USA,F,15,N
+1965.0,Unprovoked,AUSTRALIA,M,40,N
+1965.0,Provoked,AUSTRALIA,M,43,Y
+1965.0,Unprovoked,PACIFIC OCEAN ,M,44,N
+1965.0,Unprovoked,AUSTRALIA,M,24,N
+1965.0,Unprovoked,BAHAMAS,M,32,N
+1965.0,Unprovoked,NEW BRITAIN,M,15,Y
+1965.0,Unprovoked,PAPUA NEW GUINEA,M,27,N
+1965.0,Unprovoked,MEXICO,M,23,N
+1965.0,Unprovoked,USA,M,15,N
+1965.0,Unprovoked,MEXICO,M,25,Y
+1965.0,Invalid,USA,M,6,N
+1965.0,Unprovoked,MEXICO,M,38,N
+1965.0,Unprovoked,MEXICO,M,35,N
+1965.0,Unprovoked,USA,M,49,N
+1965.0,Invalid,USA,M,19,Y
+1965.0,Unprovoked,USA,M,28,N
+1965.0,Unprovoked,PALAU,M,8,N
+1965.0,Unprovoked,USA,M,17,N
+1965.0,Unprovoked,USA,M,16,N
+1965.0,Unprovoked,SOUTH AFRICA,M,25,N
+1965.0,Unprovoked,USA,M,18,N
+1965.0,Invalid,USA,M,21,Y
+1965.0,Unprovoked,SOUTH AFRICA,M,22,N
+1965.0,Unprovoked,SOUTH AFRICA,M,20,N
+1965.0,Unprovoked,NEW GUINEA,M,30,Y
+1965.0,Unprovoked,USA,M,13,N
+1965.0,Provoked,USA,M,Teen,N
+1965.0,Unprovoked,EGYPT,M,25 to 35,N
+1964.0,Unprovoked,SOUTH AFRICA,M,19,N
+1964.0,Unprovoked,PAPUA NEW GUINEA,M,28,N
+1964.0,Unprovoked,KENYA,M,10,Y
+1964.0,Unprovoked,AUSTRALIA,M,25,N
+1964.0,Unprovoked,AUSTRALIA,M,29,Y
+1964.0,Provoked,AUSTRALIA,M,25,N
+1964.0,Unprovoked,AUSTRALIA,M,19,N
+1964.0,Unprovoked,TAIWAN,M,32,Y
+1964.0,Unprovoked,TAIWAN,M,20,N
+1964.0,Unprovoked,USA,M,14,N
+1964.0,Unprovoked,MEXICO,M,19,N
+1964.0,Invalid,USA,M,18,N
+1964.0,Unprovoked,USA,M,28,N
+1964.0,Unprovoked,JAPAN,M,12,N
+1964.0,Unprovoked,PANAMA,M,21,N
+1964.0,Provoked,USA,M,22,N
+1964.0,Unprovoked,SOUTH AFRICA,M,30,N
+1964.0,Invalid,SOUTH AFRICA,M,52,Y
+1964.0,Invalid,USA,F,29,Y
+1964.0,Unprovoked,FIJI,M,23,N
+1964.0,Invalid,SOUTH AFRICA,M,40,Y
+1964.0,Unprovoked,PANAMA,M,47,N
+1964.0,Unprovoked,FIJI,M,35,Y
+1964.0,Unprovoked,PANAMA,M,13,Y
+1964.0,Unprovoked,AUSTRALIA,M,19,N
+1964.0,Sea Disaster,PAPUA NEW GUINEA,M,32,Y
+1964.0,Unprovoked,USA,M,38,N
+1964.0,Unprovoked,NEW CALEDONIA,M,15,Y
+1964.0,Unprovoked,FIJI,M,17,Y
+1964.0,Unprovoked,NEW ZEALAND,M,26,N
+1964.0,Unprovoked,SOUTH AFRICA,M,25,N
+1964.0,Unprovoked,NEW ZEALAND,M,19,Y
+1964.0,Invalid,AUSTRALIA,M,23,Y
+1964.0,Unprovoked,USA,M,12,N
+1964.0,Unprovoked,SOUTH AFRICA,M,39,N
+1964.0,Unprovoked,SOUTH AFRICA,M,17,N
+1964.0,Unprovoked,USA,M,21,N
+1964.0,Unprovoked,FIJI,F,20,N
+1963.0,Unprovoked,SOUTH AFRICA,F,20,N
+1963.0,Unprovoked,SOUTH AFRICA,M,24,N
+1963.0,Unprovoked,SOUTH AFRICA,M,18,Y
+1963.0,Provoked,SOUTH AFRICA,M,13,N
+1963.0,Unprovoked,SOUTH AFRICA,M,15,Y
+1963.0,Unprovoked,AUSTRALIA,M,23,N
+1963.0,Unprovoked,NEW BRITAIN,M,22,Y
+1963.0,Unprovoked,NEW ZEALAND,M,20,N
+1963.0,Provoked,PAPUA NEW GUINEA,F,18,N
+1963.0,Unprovoked,FIJI,F,21,N
+1963.0,Unprovoked,FIJI,M,25,N
+1963.0,Unprovoked,ITALY,M,28,N
+1963.0,Unprovoked,PALAU,M,35,N
+1963.0,Unprovoked,USA,M,28,N
+1963.0,Provoked,NORTH PACIFIC OCEAN,M,20,N
+1963.0,Unprovoked,SOLOMON ISLANDS,M,30,Y
+1963.0,Provoked,AUSTRALIA,M,18,N
+1963.0,Provoked,USA,M,16,N
+1963.0,Unprovoked,DOMINICAN REPUBLIC,M,23 & 26,Y
+1963.0,Unprovoked,FEDERATED STATES OF MICRONESIA,M,26,N
+1963.0,Unprovoked,USA,M,14,N
+1963.0,Provoked,USA,M,24,N
+1963.0,Unprovoked,GREECE,F,42,Y
+1963.0,Provoked,PAPUA NEW GUINEA,M,30,N
+1963.0,Unprovoked,USA,M,25,Y
+1963.0,Unprovoked,SOUTH AFRICA,M,15,N
+1963.0,Unprovoked,AUSTRALIA,M,25,N
+1963.0,Unprovoked,USA,M,15,N
+1963.0,Unprovoked,AUSTRALIA,M,18,N
+1963.0,Unprovoked,FIJI,M,28,N
+1963.0,Unprovoked,MAURITIUS,M,24,N
+1963.0,Unprovoked,FIJI,M,41,N
+1963.0,Unprovoked,AUSTRALIA,F,32,Y
+1963.0,Invalid,AUSTRALIA,M,25,Y
+1963.0,Unprovoked,SOUTH AFRICA,M,27,N
+1963.0,Unprovoked,SOUTH AFRICA,M,24,N
+1962.0,Unprovoked,AUSTRALIA,M,16,Y
+1962.0,Unprovoked,AUSTRALIA,M,26,N
+1962.0,Unprovoked,USA,M,24,N
+1962.0,Unprovoked,SOUTH AFRICA,M,30,N
+1962.0,Unprovoked,MEXICO,M,32,Y
+1962.0,Unprovoked,ADMIRALTY ISLANDS,M,26,N
+1962.0,Invalid,USA,F,43,N
+1962.0,Unprovoked,PANAMA,M,1,Y
+1962.0,Unprovoked,BRITISH WEST INDIES,M,24,N
+1962.0,Unprovoked,MEXICO,M,20,N
+1962.0,Unprovoked,SOUTH ATLANTIC OCEAN,M,29,Y
+1962.0,Unprovoked,ITALY,M,28,Y
+1962.0,Provoked,PAPUA NEW GUINEA,M,49,N
+1962.0,Provoked,USA,M,39,N
+1962.0,Unprovoked,USA,M,40,Y
+1962.0,Unprovoked,USA,M,24,N
+1962.0,Unprovoked,PAPUA NEW GUINEA,M,(adult),Y
+1962.0,Unprovoked,SENEGAL,M,23,N
+1962.0,Unprovoked,USA,M,21,N
+1962.0,Provoked,MADAGASCAR,M,20,N
+1962.0,Provoked,USA,M,19,N
+1962.0,Unprovoked,USA,M,41,N
+1962.0,Unprovoked,USA,M,13,N
+1962.0,Unprovoked,USA,M,11,N
+1962.0,Unprovoked,USA,M,31,N
+1962.0,Unprovoked,USA,M,32,Y
+1962.0,Unprovoked,USA,M,35,Y
+1962.0,Unprovoked,USA,M,13,N
+1962.0,Provoked,USA,M,55,N
+1962.0,Unprovoked,USA,M,31,N
+1962.0,Unprovoked,USA,M,17,N
+1962.0,Unprovoked,MOZAMBIQUE,M,16,N
+1962.0,Unprovoked,SOUTH AFRICA,M,13,N
+1962.0,Unprovoked,PAPUA NEW GUINEA,M,10,Y
+1962.0,Provoked,NEW ZEALAND,M,15,N
+1962.0,Unprovoked,SOUTH AFRICA,M,22,Y
+1962.0,Unprovoked,SOUTH AFRICA,M,13,Y
+1962.0,Unprovoked,AUSTRALIA,M,35,N
+1962.0,Unprovoked,NEW ZEALAND,M,18,N
+1962.0,Unprovoked,MOZAMBIQUE,M,16,UNKNOWN
+1962.0,Provoked,AUSTRALIA,M,19,N
+1962.0,Invalid,SOUTH AFRICA,M,40,Y
+1962.0,Unprovoked,NEW ZEALAND,M,44,N
+1962.0,Unprovoked,USA,M,29,N
+1962.0,Unprovoked,AUSTRALIA,M,19,N
+1962.0,Unprovoked,PAPUA NEW GUINEA,M,24,N
+1962.0,Unprovoked,NEW ZEALAND,F,54,N
+1962.0,Invalid,AUSTRALIA,M,25,Y
+1962.0,Unprovoked,MARSHALL ISLANDS,M,57,N
+1961.0,Unprovoked,AUSTRALIA,F,18,Y
+1961.0,Unprovoked,AUSTRALIA,M,24,N
+1961.0,Unprovoked,SOUTH AFRICA,M,18,N
+1961.0,Provoked,AUSTRALIA,M,23,N
+1961.0,Unprovoked,MOZAMBIQUE,M,20,N
+1961.0,Unprovoked,AUSTRALIA,M,22,Y
+1961.0,Unprovoked,AUSTRALIA,M,17,N
+1961.0,Invalid,USA,M,45,Y
+1961.0,Unprovoked,USA,M,45,Y
+1961.0,Provoked,USA,M,16,N
+1961.0,Unprovoked,CROATIA,M,19,Y
+1961.0,Provoked,TANZANIA,M,42,N
+1961.0,Unprovoked,MID ATLANTIC OCEAN,M,22,N
+1961.0,Provoked,ITALY,M,33 & 37,N
+1961.0,Unprovoked,USA,M,16,N
+1961.0,Unprovoked,USA,M,19,N
+1961.0,Unprovoked,BERMUDA,M,22,N
+1961.0,Unprovoked,USA,M,38,N
+1961.0,Provoked,USA,M,57,N
+1971.0,Unprovoked,TURKEY,M,16,N
+1961.0,Unprovoked,ITALY,M,21,N
+1961.0,Provoked,PANAMA,M,10,Y
+1961.0,Unprovoked,USA,M,23,Y
+1961.0,Unprovoked,USA,M,25,N
+1961.0,Provoked,PAPUA NEW GUINEA,M,19,N
+1961.0,Unprovoked,USA,M,20,N
+1961.0,Unprovoked,USA,M,52,N
+1961.0,Invalid,USA,M,10,N
+1961.0,Unprovoked,MOZAMBIQUE,M,37,N
+1961.0,Unprovoked,USA,M,22,N
+1961.0,Provoked,AUSTRALIA,M,21,N
+1961.0,Unprovoked,AUSTRALIA,M,40,N
+1961.0,Unprovoked,MOZAMBIQUE,M,38,Y
+1961.0,Unprovoked,AUSTRALIA,M,24,N
+1961.0,Unprovoked,AUSTRALIA,M,24,N
+1961.0,Unprovoked,AUSTRALIA,M,24,N
+1961.0,Unprovoked,AUSTRALIA,M,21,N
+1961.0,Unprovoked,NORTH PACIFIC OCEAN,M,33,N
+1961.0,Provoked,SOUTH AFRICA,M,44,N
+1961.0,Provoked,USA,M,30,N
+1961.0,Unprovoked,SOUTH AFRICA,M,27,N
+1961.0,Unprovoked,SOUTH AFRICA,M,14,Y
+1961.0,Unprovoked,SOUTH AFRICA,M,15,N
+1961.0,Provoked,AUSTRALIA,M,27,N
+1961.0,Unprovoked,SOUTH AFRICA,M,13,N
+1961.0,Unprovoked,SOUTH AFRICA,M,25 or 28,N
+1961.0,Unprovoked,SENEGAL,M,20,Y
+1960.0,Unprovoked,AUSTRALIA,F,27, N
+1960.0,Unprovoked,SOUTH AFRICA,M,25,Y
+1960.0,Unprovoked,AUSTRALIA,M,33, N
+1960.0,Unprovoked,AUSTRALIA,M,41, N
+1960.0,Invalid,USA,F,51,Y
+1960.0,Provoked,AUSTRALIA,M,17, N
+1960.0,Unprovoked,AUSTRALIA,M,24, N
+1960.0,Sea Disaster,USA,M,36,N
+1960.0,Invalid,AUSTRALIA,M,24, N
+1960.0,Unprovoked,PAPUA NEW GUINEA,M,26, N
+1960.0,Invalid,JOHNSTON ISLAND,M,37,N
+1960.0,Unprovoked,USA,M,25,N
+1960.0,Unprovoked,USA,M,38,N
+1960.0,Unprovoked,USA,M,14,N
+1960.0,Unprovoked,USA,M,24,N
+1960.0,Provoked,USA,M,15,N
+1960.0,Provoked,ENGLAND,M,25,N
+1960.0,Unprovoked,USA,M,46,N
+1960.0,Unprovoked,PAPUA NEW GUINEA,M,25,N
+1960.0,Unprovoked,USA,M,17,N
+1960.0,Provoked,USA,M,41,N
+1960.0,Provoked,NORTH SEA,M,18,N
+1960.0,Unprovoked,USA,M,39,N
+1960.0,Invalid,USA,M,"37, 67, 35, 27,  ? & 27",N
+1960.0,Unprovoked,PHILIPPINES,M,58,Y
+1960.0,Unprovoked,USA,M,24,N
+1960.0,Unprovoked,PANAMA,M,27,N
+1960.0,Unprovoked,BERMUDA,M,25,N
+1960.0,Unprovoked,USA,F,16,N
+1960.0,Unprovoked,SOUTH AFRICA,M,16,N
+1960.0,Unprovoked,USA,M,48,N
+1960.0,Invalid,BERMUDA,M,"21, 34,24 & 35",N
+1960.0,Unprovoked,AUSTRALIA,M,17,N
+1960.0,Unprovoked,USA,M,42,N
+1960.0,Unprovoked,GUAM,M,44,N
+1960.0,Unprovoked,AUSTRALIA,M,30 & 32,N
+1960.0,Unprovoked,NEW ZEALAND,M,22,N
+1960.0,Invalid,USA,M,36,N
+1960.0,Unprovoked,PAPUA NEW GUINEA,M,26,Y
+1960.0,Provoked,AUSTRALIA,M,20,N
+1960.0,Unprovoked,AUSTRALIA,M,13,Y
+1960.0,Unprovoked,GRENADA,M,9,N
+1960.0,Unprovoked,PAPUA NEW GUINEA,M,16,Y
+1960.0,Unprovoked,PAPUA NEW GUINEA,M,20,N
+1960.0,Unprovoked,MOZAMBIQUE,F,5,Y
+1959.0,Unprovoked,AUSTRALIA,M,29,Y
+1959.0,Provoked,AUSTRALIA,M,17 & 35,N
+1959.0,Sea Disaster,MALDIVE ISLANDS,F,3,Y
+1959.0,Unprovoked,AUSTRALIA,M,19,N
+1959.0,Unprovoked,AUSTRALIA,M,17,N
+1959.0,Unprovoked,AUSTRALIA,M,19,N
+1959.0,Unprovoked,USA,M,21,N
+1959.0,Unprovoked,MOZAMBIQUE,M,X,Y
+1959.0,Unprovoked,USA,M,30,N
+1959.0,Unprovoked,FIJI,M,36,N
+1959.0,Unprovoked,PHILIPPINES,M,28,N
+1959.0,Invalid,BERMUDA,F,29,Y
+1959.0,Sea Disaster,USA,M,30,N
+1959.0,Unprovoked,MEXICO,F,"""middle-age""",Y
+1959.0,Invalid,JAPAN,M,14,N
+1959.0,Invalid,PHILIPPINES,M,10,Y
+1959.0,Invalid,USA,M,21,N
+1959.0,Unprovoked,USA,M,26,Y
+1959.0,Provoked,USA,M,32,N
+1959.0,Unprovoked,JAPAN,M,13 or 18,Y
+1959.0,Unprovoked,USA,F,15,N
+1959.0,Invalid,ITALY,M,34 & 19,Y
+1959.0,Unprovoked,USA,M,25,N
+1959.0,Unprovoked,JAPAN,M,22,Y
+1959.0,Provoked,USA,M,13,N
+1959.0,Unprovoked,USA,M,33,Y
+1959.0,Provoked,SOUTH AFRICA,M,23,N
+1959.0,Unprovoked,USA,F,37,N
+1959.0,Unprovoked,USA,M,18,Y
+1959.0,Unprovoked,USA,M,19,N
+1959.0,Invalid,AUSTRALIA,M,22,N
+1959.0,Unprovoked,AUSTRALIA,M,43,N
+1959.0,Unprovoked,USA,M,13,N
+1959.0,Unprovoked,PHILIPPINES,M,20,Y
+1959.0,Unprovoked,SOLOMON ISLANDS,M,15,Y
+1959.0,Unprovoked,SOUTH AFRICA,M,14,N
+1959.0,Unprovoked,AUSTRALIA,M,20,N
+1959.0,Unprovoked,ECUADOR,M,57,N
+1959.0,Unprovoked,AUSTRALIA,M,16,N
+1959.0,Unprovoked,AUSTRALIA,M,22,Y
+1959.0,Unprovoked,AUSTRALIA,M,17,N
+1959.0,Unprovoked,SOUTH AFRICA,M,18,N
+1959.0,Unprovoked,MOZAMBIQUE,M,33 & 26,Y
+1958.0,Unprovoked,SOUTH AFRICA,M,14,Y
+1958.0,Unprovoked,USA,M,15,Y
+1958.0,Unprovoked,AMERICAN SAMOA,M,22,Y
+1958.0,Unprovoked,AUSTRALIA,M,21,Y
+1958.0,Unprovoked,USA,M,15,N
+1958.0,Unprovoked,USA,M,60,N
+1958.0,Unprovoked,PAPUA NEW GUINEA,M,26,N
+1958.0,Unprovoked,ANDAMAN / NICOBAR ISLANDAS,M,32,Y
+1958.0,Unprovoked,BAHAMAS,M,42,N
+1958.0,Provoked,USA,M,20,N
+1958.0,Unprovoked,USA,M,12,N
+1958.0,Unprovoked,USA,M,8,N
+1958.0,Unprovoked,USA,M,35,Y
+1958.0,Unprovoked,KENYA,M,21,Y
+1958.0,Sea Disaster,PACIFIC OCEAN,M,31,N
+1958.0,Provoked,USA,M,20,N
+1958.0,Unprovoked,PAPUA NEW GUINEA,M,38,Y
+1958.0,Unprovoked,BAHAMAS,M,36,N
+1958.0,Provoked,USA,M,59,N
+1958.0,Unprovoked,USA,M,17,N
+1958.0,Provoked,USA,M,29,N
+1958.0,Unprovoked,TAIWAN,M,29,N
+1958.0,Unprovoked,SOUTH AFRICA,F,28,Y
+1958.0,Unprovoked,SOUTH AFRICA,M,29,Y
+1958.0,Invalid,AUSTRALIA,M,21,Y
+1958.0,Provoked,USA,M,18,N
+1958.0,Unprovoked,AUSTRALIA,M,17,N
+1958.0,Unprovoked,AUSTRALIA,M,14,N
+1958.0,Invalid,JAPAN,M,50,Y
+1957.0,Unprovoked,SOUTH AFRICA,F,14,N
+1957.0,Unprovoked,SOUTH AFRICA,M,20,N
+1957.0,Unprovoked,SOUTH AFRICA,M,23,Y
+1957.0,Unprovoked,SOUTH AFRICA,M,15,Y
+1957.0,Unprovoked,SOUTH AFRICA,M,16,N
+1957.0,Unprovoked,SOLOMON ISLANDS,M,22,Y
+1957.0,Unprovoked,SOLOMON ISLANDS,F,28,Y
+1957.0,Unprovoked,USA,M,57,Y
+1957.0,Unprovoked,AUSTRALIA,M,36,N
+1957.0,Unprovoked,AUSTRALIA,M,28,N
+1957.0,Unprovoked,USA,M,25,Y
+1957.0,Unprovoked,AUSTRALIA,M,15,N
+1957.0,Provoked,USA,M,17,N
+1957.0,Unprovoked,AUSTRALIA,M,22,N
+1957.0,Unprovoked,PAPUA NEW GUINEA,M,17,N
+1957.0,Unprovoked,SOLOMON ISLANDS,M,15,N
+1957.0,Unprovoked,SOUTH AFRICA,M,12,Y
+1957.0,Unprovoked,CUBA,M,18,Y
+1957.0,Unprovoked,FIJI,M,30,N
+1956.0,Unprovoked,PAPUA NEW GUINEA,M,19,Y
+1956.0,Unprovoked,PAPUA NEW GUINEA,M,16,Y
+1956.0,Provoked,NEW ZEALAND,M,70,N
+1956.0,Unprovoked,SOUTH AFRICA,M,29,N
+1956.0,Unprovoked,SENEGAL,M,19,N
+1956.0,Unprovoked,USA,M,27,N
+1956.0,Unprovoked,PAPUA NEW GUINEA,M,34,Y
+1956.0,Unprovoked,USA,M,13,Y
+1956.0,Unprovoked,USA,M,10,N
+1956.0,Unprovoked,SOUTH AFRICA,M,23,N
+1956.0,Provoked,USA,M,13,Y
+1956.0,Provoked,USA,M,38,N
+1956.0,Unprovoked,MALTA,M,40,Y
+1956.0,Unprovoked,USA,F,38,N
+1956.0,Unprovoked,USA,M,7,N
+1956.0,Boating,PORTUGAL,M,23,Y
+1956.0,Unprovoked,CUBA,M,30,Y
+1956.0,Unprovoked,AUSTRALIA,M,13,N
+1956.0,Unprovoked,AUSTRALIA,M,26,Y
+1956.0,Unprovoked,AUSTRALIA,M,21,N
+1956.0,Unprovoked,AUSTRALIA,M,15,Y
+1956.0,Unprovoked,AUSTRALIA,M,8,N
+1956.0,Unprovoked,AUSTRALIA,M,18,N
+1956.0,Unprovoked,COSTA RICA,M,33,Y
+1956.0,Unprovoked,AUSTRALIA,M,25,N
+1956.0,Unprovoked,GREECE,F,15,Y
+1956.0,Unprovoked,USA,F,14,UNKNOWN
+1955.0,Unprovoked,PAPUA NEW GUINEA,M,8,N
+1955.0,Provoked,AUSTRALIA,M,28,N
+1955.0,Unprovoked,USA,M,16,N
+1955.0,Provoked,USA,M,25,N
+1955.0,Unprovoked,CROATIA,F,32,Y
+1955.0,Unprovoked,AMERICAN SAMOA,M,28,Y
+1955.0,Unprovoked,NORTH ATLANTIC OCEAN ,M,15,N
+1955.0,Unprovoked,JAPAN,M,22,Y
+1955.0,Unprovoked,USA,M,13,N
+1955.0,Provoked,USA,M,28,N
+1955.0,Unprovoked,AUSTRALIA,M,22,Y
+1955.0,Provoked,AUSTRALIA,M,25,N
+1955.0,Unprovoked,USA,M,19,N
+1955.0,Unprovoked,AUSTRALIA,M,25,Y
+1955.0,Unprovoked,INDIA,M,25,N
+1955.0,Unprovoked,AUSTRALIA,M,13,Y
+1955.0,Unprovoked,MADAGASCAR,M,16,Y
+1955.0,Unprovoked,COLUMBIA,M,12,N
+1954.0,Unprovoked,AMERICAN SAMOA,M,27,Y
+1954.0,Unprovoked,AUSTRALIA,M,23,Y
+1954.0,Unprovoked,SOUTH AFRICA,M,16,N
+1954.0,Provoked,UNITED KINGDOM,M,62,N
+1954.0,Invalid,JAPAN,M,13,Y
+1954.0,Unprovoked,USA,M,35,N
+1954.0,Unprovoked,HONG KONG,M,20,Y
+1954.0,Unprovoked,AUSTRALIA,M,35,Y
+1954.0,Unprovoked,ITALY,M,27,N
+1954.0,Unprovoked,ECUADOR,M,34,N
+1954.0,Unprovoked,SINGAPORE,M,28,Y
+1954.0,Unprovoked,BERMUDA,M,22,N
+1954.0,Provoked,USA,M,35,N
+1954.0,Unprovoked,AUSTRALIA,M,30,N
+1954.0,Unprovoked,AUSTRALIA,M,23,Y
+1954.0,Unprovoked,AUSTRALIA,M,30,N
+1954.0,Unprovoked,ARGENTINA,M,18,N
+1954.0,Unprovoked,PAPUA NEW GUINEA,M,26,N
+1954.0,Unprovoked,PAPUA NEW GUINEA,M,12,N
+1953.0,Unprovoked,SOUTH AFRICA,M,23,N
+1953.0,Unprovoked,AUSTRALIA,M,16,N
+1953.0,Unprovoked,PHILIPPINES,M,23,Y
+1953.0,Unprovoked,USA,M,15,N
+1953.0,Invalid,MEXICO,M,19,N
+1953.0,Unprovoked,MEXICO,F,18,Y
+1953.0,Unprovoked,USA,M,15,Y
+1953.0,Unprovoked,USA,F,26,N
+1953.0,Unprovoked,PANAMA,M,19,N
+1953.0,Unprovoked,USA,F,19,N
+1953.0,Unprovoked,AUSTRALIA,M,23,N
+1953.0,Unprovoked,AUSTRALIA,M,25,N
+1953.0,Provoked,AUSTRALIA,M,61,N
+1952.0,Unprovoked,AUSTRALIA,M,25,N
+1952.0,Provoked,ITALY,M,17,N
+1952.0,Unprovoked,USA,M,17,Y
+1952.0,Unprovoked,USA,M,40,Y
+1952.0,Invalid,SOUTH AFRICA,M,18,Y
+1952.0,Provoked,USA,M,43,N
+1952.0,Provoked,USA,M,34,N
+1952.0,Provoked,USA,M,34,N
+1952.0,Unprovoked,PAPUA NEW GUINEA,M,27,Y
+1951.0,Unprovoked,MOZAMBIQUE,M,15,Y
+1951.0,Provoked,AUSTRALIA,M,18,N
+1951.0,Unprovoked,AUSTRALIA,M,21,Y
+1951.0,Unprovoked,SOUTH AFRICA,M,23,N
+1951.0,Unprovoked,JAMAICA,M,81,N
+1951.0,Unprovoked,SOUTH AFRICA,M,24,N
+1951.0,Unprovoked,AUSTRALIA,M,42,Y
+1951.0,Unprovoked,ITALY,F,21,Y
+1951.0,Unprovoked,AUSTRALIA,M,56,Y
+1951.0,Unprovoked,GREECE,M,18,N
+1951.0,Unprovoked,GREECE,F,16,Y
+1951.0,Unprovoked,USA,M,13,N
+1951.0,Unprovoked,PACIFIC OCEAN,M,40,N
+1951.0,Unprovoked,FRENCH POLYNESIA,M,39,N
+1951.0,Unprovoked,MEXICO,M,16,N
+1951.0,Provoked,AUSTRALIA,M,23,N
+1951.0,Unprovoked,AUSTRALIA,M,"""young""",N
+1951.0,Unprovoked,SOUTH AFRICA,M,19,N
+1951.0,Unprovoked,SOUTH AFRICA,M,31,N
+1951.0,Unprovoked,AUSTRALIA,M,20,N
+1951.0,Unprovoked,AUSTRALIA,M,14,N
+1951.0,Unprovoked,SOUTH AFRICA,M,19,Y
+1950.0,Unprovoked,AUSTRALIA,M,19,N
+1950.0,Unprovoked,AUSTRALIA,M,20,Y
+1950.0,Provoked,AUSTRALIA,M,17,N
+1950.0,Unprovoked,AUSTRALIA,M,21,N
+1950.0,Boating,AUSTRALIA,M,18,N
+1950.0,Unprovoked,USA,M,31,N
+1950.0,Unprovoked,AUSTRALIA,M,25,N
+1950.0,Provoked,EL SALVADOR,M,27,N
+1950.0,Unprovoked,JAPAN,M,19,Y
+1950.0,Unprovoked,CUBA,M,30,N
+1950.0,Unprovoked,USA,M,11,N
+1950.0,Unprovoked,USA,M,21,N
+1950.0,Unprovoked,USA,M,16,N
+1950.0,Sea Disaster,USA,M,25,Y
+1950.0,Unprovoked,SOUTH AFRICA,M,27,N
+1950.0,Sea Disaster,AUSTRALIA,M,50,Y
+1950.0,Unprovoked,SOUTH AFRICA,M,20,Y
+1950.0,Unprovoked,SOUTH AFRICA,M,14,Y
+1950.0,Unprovoked,INDONESIA,M,7 or 8,Y
+1949.0,Unprovoked,AUSTRALIA,M,35,N
+1949.0,Unprovoked,AUSTRALIA,M,36,N
+1949.0,Unprovoked,AUSTRALIA,M,21,N
+1949.0,Unprovoked,AUSTRALIA,M,34,Y
+1949.0,Invalid,ITALY,M,17,N
+1949.0,Unprovoked,AUSTRALIA,M,18,N
+1949.0,Unprovoked,ITALY,M,21,N
+1949.0,Unprovoked,IRAN,M,18,N
+1949.0,Unprovoked,IRAN,M,18,Y
+1949.0,Unprovoked,USA,M,16,N
+1949.0,Provoked,USA,M,16,N
+1949.0,Unprovoked,AUSTRALIA,F,22,N
+1949.0,Provoked,AUSTRALIA,M,26,N
+1949.0,Unprovoked,AUSTRALIA,M,13,Y
+1949.0,Unprovoked,AUSTRALIA,M,20,Y
+1949.0,Invalid,AUSTRALIA,M,32,N
+1949.0,Unprovoked,PAPUA NEW GUINEA,M,18,Y
+1948.0,Unprovoked,AUSTRALIA,M,17,Y
+1948.0,Unprovoked,AUSTRALIA,M,28,Y
+1948.0,Unprovoked,IRAN,M,19,N
+1948.0,Unprovoked,CUBA,M,14,N
+1948.0,Unprovoked,AUSTRALIA,M,41,N
+1948.0,Unprovoked,GREECE,M,17,Y
+1948.0,Unprovoked,IRAN,F,60,Y
+1948.0,Unprovoked,IRAN,M,13,Y
+1948.0,Unprovoked,IRAN,M,15,N
+1948.0,Provoked,BAHAMAS,M,41,N
+1948.0,Unprovoked,USA,M,46,Y
+1948.0,Provoked,IRAN,M,38,N
+1948.0,Provoked,PAPUA NEW GUINEA,M,30,N
+1948.0,Unprovoked,AUSTRALIA,M,16,Y
+1948.0,Provoked,USA,M,48,N
+1947.0,Unprovoked,AUSTRALIA,M,9,N
+1947.0,Unprovoked,AUSTRALIA,M,17,N
+1947.0,Unprovoked,AUSTRALIA,M,16,N
+1947.0,Unprovoked,AUSTRALIA,M,12,Y
+1947.0,Unprovoked,AUSTRALIA,M,13,N
+1947.0,Unprovoked,BRAZIL,M,25,Y
+1947.0,Unprovoked,USA,M,20,Y
+1947.0,Provoked,USA,M,46,N
+1947.0,Unprovoked,SOUTH AFRICA,M,20,N
+1947.0,Unprovoked,USA,M,35,N
+1947.0,Unprovoked,SOUTH AFRICA,M,21,N
+1947.0,Unprovoked,SOUTH AFRICA,M,14,N
+1947.0,Unprovoked,AUSTRALIA,M,17,N
+1947.0,Provoked,PACIFIC OCEAN,M,29,N
+1947.0,Unprovoked,SOUTH AFRICA,M,18,N
+1947.0,Unprovoked,SOUTH AFRICA,M,22,N
+1947.0,Unprovoked,SOUTH AFRICA,M,18,N
+1946.0,Unprovoked,AUSTRALIA,M,23,N
+1946.0,Unprovoked,AUSTRALIA,M,30,Y
+1946.0,Unprovoked,AUSTRALIA,M,15,N
+1946.0,Unprovoked,ISRAEL,M,15,N
+1946.0,Unprovoked,AUSTRALIA,M,30,Y
+1946.0,Unprovoked,IRAN,M,12,N
+1946.0,Unprovoked,IRAN,M,12,N
+1946.0,Unprovoked,INDIA,M,14,N
+1946.0,Unprovoked,AUSTRALIA,M,17,Y
+1946.0,Boating,AUSTRALIA,M,28,N
+1946.0,Unprovoked,SOUTH AFRICA,M,21,N
+1946.0,Unprovoked,AUSTRALIA,M,18,N
+1946.0,Unprovoked,SOUTH AFRICA,M,18,N
+1946.0,Unprovoked,SOUTH AFRICA,M,15,N
+1946.0,Unprovoked,AUSTRALIA,M,12,N
+1946.0,Unprovoked,SOUTH AFRICA,M,18,N
+1946.0,Unprovoked,AUSTRALIA,F,14,Y
+1946.0,Unprovoked,SOUTH AFRICA,M,24,N
+1945.0,Sea Disaster,OKINAWA,M,20,N
+1945.0,Unprovoked,IRAN,M,13,N
+1945.0,Unprovoked,SOUTH AFRICA,M,37,N
+1945.0,Unprovoked,PANAMA,F,8 or 10,N
+1945.0,Unprovoked,IRAQ,M,15,N
+1944.0,Sea Disaster,PHILIPPINES,M,19,N
+1944.0,Sea Disaster,SIERRA LEONE,M,18,Y
+1944.0,Unprovoked,USA,M,13,N
+1944.0,Unprovoked,SOUTH AFRICA,M,19,Y
+1944.0,Unprovoked,SOUTH AFRICA,M,17,Y
+1944.0,Unprovoked,USA,F,15,N
+1944.0,Unprovoked,SOUTH AFRICA,M,18,N
+1944.0,Unprovoked,SOUTH AFRICA,M,23,Y
+1944.0,Unprovoked,SOUTH AFRICA,M,16,N
+1944.0,Unprovoked,INDIA,M,12,Y
+1944.0,Unprovoked,SOUTH AFRICA,M,22,Y
+1944.0,Unprovoked,AUSTRALIA,M,14,N
+1944.0,Unprovoked,SOUTH AFRICA,M,26,Y
+1943.0,Unprovoked,SOUTH AFRICA,M,17,Y
+1943.0,Unprovoked,PANAMA,M,20,Y
+1943.0,Invalid,MEXICO,M,68,N
+1943.0,Boating,AUSTRALIA,M,18,N
+1943.0,Sea Disaster,CENTRAL PACIFIC,M,26,N
+1943.0,Sea Disaster,AUSTRALIA,M,F,Y
+1943.0,Unprovoked,SOUTH AFRICA,M,31,Y
+1943.0,Unprovoked,IRAQ,M,22,N
+1942.0,Unprovoked,AUSTRALIA,F,15,Y
+1942.0,Unprovoked,SOUTH AFRICA,M,38,N
+1942.0,Sea Disaster,SOLOMON ISLANDS,M,19,N
+1942.0,Unprovoked,SOUTH AFRICA,M,18,Y
+1942.0,Sea Disaster,SOLOMON ISLANDS,M,25,N
+1942.0,Unprovoked,AUSTRALIA,M,24,N
+1942.0,Sea Disaster,ATLANTIC OCEAN,M,32,Y
+1942.0,Provoked,ITALY,M,20,N
+1942.0,Invalid,AUSTRALIA,M,18,Y
+1942.0,Unprovoked,AUSTRALIA,F,28,Y
+1942.0,Unprovoked,BAHAMAS,M,48,N
+1941.0,Unprovoked,AUSTRALIA,M,10,N
+1941.0,Sea Disaster,SOUTH ATLANTIC OCEAN,M,23,N
+1941.0,Unprovoked,USA,M,20,N
+1941.0,Provoked,USA,M,43,N
+1941.0,Provoked,USA,M,53,N
+1941.0,Provoked,AUSTRALIA,M,34,N
+1941.0,Unprovoked,SOUTH ATLANTIC OCEAN,M,19,N
+1941.0,Unprovoked,IRAN,M,6,Y
+1941.0,Unprovoked,PAPUA NEW GUINEA,M,14,N
+1940.0,Unprovoked,AUSTRALIA,M,23,Y
+1940.0,Unprovoked,SOUTH AFRICA,M,17,Y
+1940.0,Unprovoked,PANAMA,M,18,Y
+1940.0,Unprovoked,SOUTH AFRICA,M,25,Y
+1940.0,Unprovoked,SOUTH AFRICA,M,17,Y
+1940.0,Unprovoked,AUSTRALIA,M,55,Y
+1940.0,Unprovoked,AUSTRALIA,M,17,N
+1940.0,Unprovoked,AUSTRALIA,M,13,Y
+1940.0,Unprovoked,AUSTRALIA,M,22,N
+1940.0,Unprovoked,SOUTH AFRICA,M,18,Y
+1939.0,Invalid,AUSTRALIA,M,40,N
+1939.0,Unprovoked,AUSTRALIA,M,20,Y
+1939.0,Unprovoked,AUSTRALIA,M,27,N
+1939.0,Provoked,USA,M,33,N
+1939.0,Provoked,BAHAMAS,M,38,N
+1939.0,Unprovoked,PAPUA NEW GUINEA,M,9,Y
+1939.0,Unprovoked,AUSTRALIA,M,Both 11,N
+1938.0,Unprovoked,AUSTRALIA,M,19,Y
+1938.0,Provoked,AUSTRALIA,M,18,N
+1938.0,Provoked,USA,M,27,N
+1938.0,Unprovoked,AUSTRALIA,M,25,Y
+1938.0,Unprovoked,IRAQ,M,9 or 10,N
+1938.0,Provoked,SOUTH AFRICA,M,13,N
+1938.0,Unprovoked,AUSTRALIA,M,24,N
+1938.0,Unprovoked,TRINIDAD & TOBAGO,M,50,N
+1938.0,Unprovoked,AUSTRALIA,M,17,N
+1937.0,Unprovoked,AUSTRALIA,M,17,Y
+1937.0,Unprovoked,AUSTRALIA,M,25,Y
+1937.0,Unprovoked,AUSTRALIA,M,18,Y
+1937.0,Unprovoked,AUSTRALIA,M,16,N
+1937.0,Unprovoked,AUSTRALIA,M,38,N
+1937.0,Unprovoked,PANAMA,M,21,Y
+1937.0,Unprovoked,USA,M,14,Y
+1937.0,Unprovoked,AUSTRALIA,M,33,Y
+1937.0,Invalid,AUSTRALIA,M,16,N
+1937.0,Invalid,AUSTRALIA,M,43,Y
+1937.0,Unprovoked,AUSTRALIA,M,32,Y
+1937.0,Provoked,AUSTRALIA,M,20,N
+1937.0,Provoked,AUSTRALIA,M,18,N
+1936.0,Unprovoked,AUSTRALIA,M,15,Y
+1936.0,Boating,AUSTRALIA,M,50,Y
+1936.0,Boating,USA,M,13,N
+1936.0,Unprovoked,USA,M,16,Y
+1936.0,Unprovoked,AUSTRALIA,M,16,Y
+1936.0,Unprovoked,AUSTRALIA,M,16,N
+1936.0,Provoked,AUSTRALIA,F,young,N
+1936.0,Unprovoked,AUSTRALIA,M,14,Y
+1936.0,Unprovoked,AUSTRALIA,M,13,Y
+1936.0,Invalid,AUSTRALIA,M,17,N
+1935.0,Unprovoked,AUSTRALIA,M,20,N
+1935.0,Unprovoked,USA,M,38,Y
+1935.0,Unprovoked,AUSTRALIA,M,38,Y
+1935.0,Invalid,USA,M,23,Y
+1935.0,Invalid,USA,M,53,Y
+1935.0,Unprovoked,PANAMA,M,14,Y
+1935.0,Unprovoked,CROATIA,F,22,Y
+1935.0,Unprovoked,USA,M,31,N
+1935.0,Invalid,AUSTRALIA,M,40,N
+1935.0,Provoked,AUSTRALIA,M,38,N
+1935.0,Unprovoked,AUSTRALIA,M,27,Y
+1935.0,Unprovoked,AUSTRALIA,M,22,Y
+1935.0,Unprovoked,AUSTRALIA,M,20,N
+1935.0,Invalid,AUSTRALIA,M,5,N
+1934.0,Unprovoked,AUSTRALIA,F,13,N
+1934.0,Unprovoked,AUSTRALIA,M,19,Y
+1934.0,Unprovoked,AUSTRALIA,M,14,Y
+1934.0,Unprovoked,AUSTRALIA,M,12,N
+1934.0,Unprovoked,AUSTRALIA,F,38,Y
+1934.0,Unprovoked,CROATIA,F,18,Y
+1934.0,Unprovoked,USA,M,11,N
+1934.0,Unprovoked,USA,M,8,Y
+1934.0,Unprovoked,AUSTRALIA,M,34,N
+1934.0,Unprovoked,SOUTH AFRICA,M,12,N
+1934.0,Unprovoked,AUSTRALIA,M,15,Y
+1934.0,Unprovoked,AUSTRALIA,M,17,Y
+1934.0,Unprovoked,AUSTRALIA,M,15,N
+1934.0,Unprovoked,AUSTRALIA,M,22,N
+1933.0,Unprovoked,AUSTRALIA,M,17,N
+1933.0,Unprovoked,USA,M,50,N
+1933.0,Unprovoked,USA,M,15,N
+1933.0,Unprovoked,USA,M,24,Y
+1933.0,Unprovoked,AUSTRALIA,M,38,Y
+1932.0,Unprovoked,AUSTRALIA,M,24,N
+1932.0,Unprovoked,CAPE VERDE,M,27,Y
+1932.0,Provoked,BAHAMAS,M,18,N
+1932.0,Invalid,USA,M,17,Y
+1932.0,Provoked,USA,M,32,N
+1932.0,Provoked,MEXICO,M,36 & 23,Y
+1932.0,Unprovoked,SOUTH AFRICA,M,23,N
+1931.0,Unprovoked,AUSTRALIA,M,45,N
+1931.0,Unprovoked,JAMAICA,M,Teen,Y
+1931.0,Unprovoked,USA,F,20,N
+1931.0,Unprovoked,CUBA,M,18,Y
+1931.0,Unprovoked,CUBA,M,23,Y
+1931.0,Unprovoked,AUSTRALIA,M,19,Y
+1931.0,Invalid,AUSTRALIA,M,39,Y
+1931.0,Unprovoked,AUSTRALIA,M,18,N
+1930.0,Unprovoked,AUSTRALIA,M,49,N
+1930.0,Unprovoked,AUSTRALIA,M,17,N
+1930.0,Unprovoked,SPAIN,M,38,N
+1930.0,Unprovoked,CUBA,M,29,N
+1930.0,Unprovoked,USA,M,21,N
+1930.0,Invalid,SOUTH AFRICA,M,17,Y
+1930.0,Unprovoked,AUSTRALIA,M,19,N
+1930.0,Unprovoked,AUSTRALIA,M,18,Y
+1930.0,Unprovoked,SOUTH AFRICA,M,23,N
+1930.0,Unprovoked,OKINAWA,M,17,N
+1929.0,Unprovoked,AUSTRALIA,M,16,Y
+1929.0,Unprovoked,AUSTRALIA,F,17,N
+1929.0,Unprovoked,AUSTRALIA,M,50s,Y
+1929.0,Unprovoked,AUSTRALIA,M,42,Y
+1929.0,Provoked,AUSTRALIA,M,19,N
+1929.0,Unprovoked,USA,M,26,N
+1929.0,Unprovoked,AUSTRALIA,M,9,N
+1929.0,Unprovoked,AUSTRALIA,M,12,N
+1929.0,Unprovoked,AUSTRALIA,M,20,Y
+1929.0,Unprovoked,AUSTRALIA,M,39,Y
+1929.0,Unprovoked,AUSTRALIA,M,  ,Y
+1929.0,Unprovoked,AUSTRALIA,M,14,Y
+1929.0,Unprovoked,USA,M,27,N
+1928.0,Boating,INDIA,M,24,N
+1928.0,Unprovoked,PANAMA,M,17,Y
+1928.0,Unprovoked,AUSTRALIA,M,19,N
+1928.0,Unprovoked,AUSTRALIA,M,15,N
+1928.0,Unprovoked,AUSTRALIA,M,28,Y
+1928.0,Unprovoked,AUSTRALIA,M,78,Y
+1928.0,Unprovoked,SOUTH AFRICA,M,18,N
+1928.0,Unprovoked,SOUTH AFRICA,M,25,N
+1927.0,Unprovoked,SOUTH AFRICA,M,17,Y
+1927.0,Unprovoked,AUSTRALIA,M,17,N
+1927.0,Provoked,NEW ZEALAND,M,70,N
+1927.0,Unprovoked,AUSTRALIA,M,15,Y
+1927.0,Unprovoked,AUSTRALIA,M,10,Y
+1926.0,Unprovoked,AUSTRALIA,M,17,N
+1926.0,Unprovoked,USA,M,18,Y
+1926.0,Unprovoked,ITALY,M,20,Y
+1926.0,Unprovoked,USA,M,15,N
+1926.0,Unprovoked,SOUTH ATLANTIC OCEAN,M,26,N
+1925.0,Unprovoked,AUSTRALIA,M,55,Y
+1925.0,Unprovoked,AUSTRALIA,M,16,N
+1925.0,Unprovoked,AUSTRALIA,M,16,Y
+1925.0,Unprovoked,PAPUA NEW GUINEA,M,A.M.,Y
+1924.0,Unprovoked,PANAMA,M,35,N
+1924.0,Unprovoked,USA,M,35,Y
+1924.0,Boating,USA,M,?    &   14,N
+1924.0,Unprovoked,AUSTRALIA,M,20,Y
+1924.0,Unprovoked,PANAMA,M,21,N
+1924.0,Unprovoked,AUSTRALIA,F,30,N
+1924.0,Unprovoked,SOUTH AFRICA,M,22,Y
+1924.0,Unprovoked,AUSTRALIA,M,16,Y
+1923.0,Unprovoked,USA,M,25,N
+1923.0,Unprovoked,AUSTRALIA,M,13,Y
+1922.0,Unprovoked,AUSTRALIA,M,19,Y
+1922.0,Unprovoked,BARBADOS,M,16,Y
+1922.0,Unprovoked,USA,F,18,Y
+1922.0,Unprovoked,JAMAICA,M,19,Y
+1922.0,Unprovoked,SOUTH AFRICA,M,18,N
+1922.0,Unprovoked,JAMAICA,F,14,Y
+1922.0,Unprovoked,AUSTRALIA,M,21,Y
+1922.0,Unprovoked,AUSTRALIA,M,18,Y
+1922.0,Unprovoked,AUSTRALIA,M,54,Y
+1922.0,Unprovoked,AUSTRALIA,M,26,Y
+1921.0,Unprovoked,AUSTRALIA,M,20,N
+1921.0,Unprovoked,AUSTRALIA,M,8,Y
+1921.0,Unprovoked,AUSTRALIA,M,40,N
+1921.0,Unprovoked,AUSTRALIA,M,22,Y
+1921.0,Unprovoked,PHILIPPINES,M,21,Y
+1920.0,Invalid,USA,M,30,Y
+1920.0,Unprovoked,USA,M,13,N
+1920.0,Unprovoked,AUSTRALIA,M,20,N
+1920.0,Unprovoked,SOUTH AFRICA,F,18,N
+1920.0,Unprovoked,AUSTRALIA,M,12,Y
+1920.0,Unprovoked,SOUTH AFRICA,M,12,N
+1919.0,Unprovoked,AUSTRALIA,M,29,N
+1919.0,Unprovoked,AUSTRALIA,M,47,Y
+1919.0,Unprovoked,AUSTRALIA,M,13,Y
+1919.0,Unprovoked,AUSTRALIA,M,38,Y
+1918.0,Unprovoked,AUSTRALIA,M,22,Y
+1916.0,Unprovoked,AUSTRALIA,M,25,N
+1916.0,Unprovoked,AUSTRALIA,M,41,Y
+1916.0,Unprovoked,AUSTRALIA,M,27,Y
+1916.0,Unprovoked,USA,M,12,N
+1916.0,Unprovoked,USA,M,24,Y
+1916.0,Unprovoked,USA,M,10,Y
+1916.0,Unprovoked,USA,M,24,Y
+1916.0,Unprovoked,USA,M,10 or 12,N
+1916.0,Provoked,USA,M,26,N
+1916.0,Unprovoked,AUSTRALIA,M,17,Y
+1915.0,Unprovoked,AUSTRALIA,M,10,N
+1915.0,Unprovoked,AUSTRALIA,M,17,Y
+1914.0,Unprovoked,USA,M,17,Y
+1914.0,Unprovoked,AUSTRALIA,M,43,Y
+1913.0,Unprovoked,AUSTRALIA,M,12,N
+1912.0,Unprovoked,USA,M,12,Y
+1912.0,Unprovoked,AUSTRALIA,M,18,N
+1912.0,Unprovoked,AUSTRALIA,M,21,Y
+1912.0,Unprovoked,FIJI,M,7,Y
+1911.0,Unprovoked,AUSTRALIA,M,23,N
+1911.0,Unprovoked,SOUTH AFRICA,M,64,Y
+1911.0,Sea Disaster,AUSTRALIA,M,22,N
+1911.0,Unprovoked,NEW ZEALAND,M,50,Y
+1909.0,Unprovoked,USA,M,16,N
+1909.0,Invalid,USA,F,19,Y
+1908.0,Unprovoked,SOUTH AFRICA,M,16,Y
+1907.0,Unprovoked,NEW ZEALAND,M,55,Y
+1907.0,Unprovoked,AUSTRALIA,M,18,Y
+1907.0,Unprovoked,VIETNAM,M,20,N
+1906.0,Unprovoked,AUSTRALIA,M,17,Y
+1906.0,Invalid,AUSTRALIA,M,18,Y
+1906.0,Unprovoked,AUSTRALIA,M,31 or 33,Y
+1906.0,Unprovoked,SOUTH AFRICA,M,30,Y
+1905.0,Unprovoked,PHILIPPINES,M,21,N
+1905.0,Unprovoked,USA,M,16,Y
+1905.0,Invalid,ITALY,M,8,Y
+1905.0,Unprovoked,SOUTH AFRICA,M,26,Y
+1905.0,Unprovoked,AUSTRALIA,M,40,N
+1905.0,Invalid,AUSTRALIA,M,23,Y
+1905.0,Invalid,AUSTRALIA,M,39,Y
+1904.0,Unprovoked,NEW ZEALAND,M,30,Y
+1903.0,Unprovoked,FALKLAND ISLANDS,M,28,N
+1902.0,Unprovoked,NICARAGUA,M,30,Y
+1902.0,Unprovoked,AUSTRALIA,M,17,Y
+1902.0,Unprovoked,AUSTRALIA,M,16,N
+1901.0,Unprovoked,AUSTRALIA,M,10,N
+1901.0,Unprovoked,CYPRUS,M,Teen,Y
+1901.0,Unprovoked,SOUTH AFRICA,M,29,Y
+1900.0,Unprovoked,SOUTH AFRICA,M,30,Y
+1899.0,Unprovoked,USA,M,15,Y
+1899.0,Unprovoked,EGYPT ,M,9,N
+1899.0,Unprovoked,EGYPT ,M,19,N
+1899.0,Unprovoked,EGYPT,M,13,N
+1899.0,Invalid,AUSTRALIA,F,13,Y
+1898.0,Unprovoked,YEMEN ,M,24,Y
+1898.0,Unprovoked,YEMEN ,M,22,Y
+1898.0,Unprovoked,USA,M,15,N
+1896.0,Unprovoked,NEW ZEALAND,M,26,Y
+1896.0,Unprovoked,USA,M,35,Y
+1896.0,Unprovoked,AUSTRALIA,M,11,Y
+1896.0,Unprovoked,HAITI,M,15,N
+1895.0,Unprovoked,AUSTRALIA,M,14,Y
+1895.0,Unprovoked,USA,M,26,Y
+1895.0,Unprovoked,SOUTH AFRICA,M,28,Y
+1895.0,Unprovoked,AUSTRALIA,M,13,N
+1895.0,Unprovoked,AUSTRALIA,M,14,Y
+1894.0,Unprovoked,AUSTRALIA,M,19,N
+1892.0,Unprovoked,ATLANTIC OCEAN,M,15,Y
+1892.0,Provoked,AUSTRALIA,M,21,N
+1890.0,Unprovoked,BRITISH NEW GUINEA,M,18,N
+1888.0,Unprovoked,AUSTRALIA,M,11,Y
+1887.0,Unprovoked,HONDURAS,M,33,Y
+1887.0,Unprovoked,SOUTH AFRICA,M,13,Y
+1886.0,Unprovoked,AUSTRALIA,M,18,Y
+1883.0,Unprovoked,AUSTRALIA,M,21,Y
+1883.0,Unprovoked,AUSTRALIA,M,37,Y
+1881.0,Invalid,USA,M,18,Y
+1881.0,Unprovoked,USA,M,23,Y
+1880.0,Unprovoked,AUSTRALIA,M,12,Y
+1880.0,Unprovoked,INDIA,M,20,N
+1880.0,Unprovoked,INDIA,F,60,N
+1880.0,Unprovoked,INDIA,M,11,Y
+1880.0,Unprovoked,AUSTRALIA,F,13,N
+1879.0,Unprovoked,INDIA,M,23,Y
+1879.0,Unprovoked,NEW ZEALAND,M,19,Y
+1878.0,Unprovoked,USA,M,14,Y
+1878.0,Unprovoked,AUSTRALIA,M,11,Y
+1877.0,Unprovoked,AUSTRALIA,M,11,N
+1877.0,Unprovoked,FIJI,M,15,N
+1875.0,Unprovoked,NEW ZEALAND,M,3,Y
+1873.0,Unprovoked,CUBA,M,27,N
+1871.0,Unprovoked,INDIA,M,30,Y
+1870.0,Unprovoked,INDIA,M,40,N
+1870.0,Unprovoked,INDIA,M,40,N
+1870.0,Unprovoked,AUSTRALIA,M,13,N
+1870.0,Unprovoked,INDIA,M,39,N
+1870.0,Unprovoked,INDIA,M,40,N
+1870.0,Unprovoked,AUSTRALIA,M,17,N
+1868.0,Unprovoked,INDIA,M,35,Y
+1865.0,Unprovoked,USA,M,17,N
+1864.0,Unprovoked,USA,M,13,N
+1863.0,Unprovoked,GUINEA,M,18,Y
+1863.0,Invalid,SOUTH AFRICA,M,26,Y
+1863.0,Unprovoked,AUSTRALIA,M,17,Y
+1862.0,Unprovoked,NEW ZEALAND,M,28,N
+1862.0,Unprovoked,SPAIN,M,18,Y
+1862.0,Unprovoked,SPAIN,M,18,Y
+1858.0,Unprovoked,AUSTRALIA,M,22,Y
+1856.0,Unprovoked,AUSTRALIA,M,17,UNKNOWN
+1855.0,Unprovoked,AUSTRALIA,F,2½,Y
+1848.0,Unprovoked,USA,M,15,N
+1847.0,Unprovoked,GREECE,M,19,Y
+1842.0,Unprovoked,INDIA,M,7 or 8,Y
+1839.0,Unprovoked,FIJI,M,29,N
+1837.0,Unprovoked,AUSTRALIA,M,12,Y
+1830.0,Unprovoked,USA,M,52,Y
+1828.0,Unprovoked,SIERRA LEONE,M,17,N
+1817.0,Unprovoked,SRI LANKA,M,22,Y
+1779.0,Unprovoked,USA,M,young,Y
+1749.0,Unprovoked,CUBA,M,14,N
+1703.0,Unprovoked,BARBADOS,M,19,N
+0.0,Unprovoked,PANAMA,M,20,Y
+0.0,Unprovoked,AUSTRALIA,F,15,N
+0.0,Unprovoked,USA,F,21,N
+0.0,Provoked,USA,M,19,N
+0.0,Unprovoked,FIJI,M,27,N
+0.0,Unprovoked,MOZAMBIQUE,M,36,N
+0.0,Unprovoked,IRAQ,M,25,N
+0.0,Unprovoked,IRAQ,M,6,N
+0.0,Unprovoked,IRAQ,M,16,N
+0.0,Provoked,CUBA,M,50,Y
+0.0,Unprovoked,IRAQ,M,13 or 14,Y
+0.0,Unprovoked,BELIZE,M,16,Y
+0.0,Unprovoked,CEYLON (SRI LANKA),M,15,Y
